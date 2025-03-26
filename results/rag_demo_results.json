@@ -1,0 +1,92 @@
+[
+  {
+    "query": "What exercises are best for weight loss?",
+    "retrieved_documents": [
+      {
+        "id": "fitness_goals",
+        "title": "Understanding Different Fitness Goals"
+      },
+      {
+        "id": "type_cardio",
+        "title": "Cardio Exercises"
+      },
+      {
+        "id": "beginner_exercise",
+        "title": "Exercise Guide for Beginners"
+      }
+    ],
+    "answer": "Based on the available information:\n\nFor weight loss goals, focus on creating a caloric deficit through a combination of diet and exercise. Effective exercises include:\n- High-intensity interval training (HIIT)\n- Cardiovascular exercises like running, cycling, or swimming\n- Circuit training with minimal rest between exercises\n- Full-body strength training to increase metabolic rate\n\nConsistency is key, and it's recommended to aim for 3-5 workout sessions per week."
+  },
+  {
+    "query": "How should I start exercising as a beginner?",
+    "retrieved_documents": [
+      {
+        "id": "beginner_exercise",
+        "title": "Exercise Guide for Beginners"
+      },
+      {
+        "id": "type_cardio",
+        "title": "Cardio Exercises"
+      },
+      {
+        "id": "type_strongman",
+        "title": "Strongman Exercises"
+      }
+    ],
+    "answer": "Based on the available information:\n\nFor beginners just starting their fitness journey:\n- Start with low-intensity, short-duration workouts (20-30 minutes)\n- Focus on building consistency rather than intensity (2-3 days per week initially)\n- Master proper form with bodyweight exercises before adding weights\n- Include a mix of cardio and basic strength training\n- Allow for adequate recovery between sessions\n\nA good starting point is bodyweight squats, modified push-ups, and walking or light jogging."
+  },
+  {
+    "query": "What's the best way to build muscle in my arms?",
+    "retrieved_documents": [
+      {
+        "id": "bodypart_forearms",
+        "title": "Exercises for Forearms"
+      },
+      {
+        "id": "bodypart_biceps",
+        "title": "Exercises for Biceps"
+      },
+      {
+        "id": "exercise_programming",
+        "title": "Principles of Exercise Programming"
+      }
+    ],
+    "answer": "Based on the available information:\n\nFor muscle building and strength gains, focus on progressive overload with proper nutrition. Key recommendations:\n- Prioritize compound exercises (squats, deadlifts, bench press, rows)\n- Train with weights at 70-85% of your maximum capacity\n- Ensure adequate protein intake (1.6-2.2g per kg of bodyweight)\n- Allow proper recovery between training sessions (48 hours for each muscle group)\n\nA typical split might involve training each muscle group 2-3 times per week."
+  },
+  {
+    "query": "What should I eat before and after a workout?",
+    "retrieved_documents": [
+      {
+        "id": "exercise_nutrition",
+        "title": "Nutrition for Exercise Performance"
+      },
+      {
+        "id": "fitness_goals",
+        "title": "Understanding Different Fitness Goals"
+      },
+      {
+        "id": "exercise_programming",
+        "title": "Principles of Exercise Programming"
+      }
+    ],
+    "answer": "Based on the available information:\n\nNutrition plays a crucial role in exercise performance and results:\n- Pre-workout: Consume complex carbs and moderate protein 2-3 hours before exercise\n- During longer workouts: Consider sports drinks with electrolytes\n- Post-workout: Consume protein and carbs within 30-60 minutes after exercise\n\nGeneral macronutrient guidelines:\n- Protein: 1.6-2.2g/kg bodyweight for strength training\n- Carbohydrates: 3-7g/kg bodyweight depending on training volume\n- Fats: 0.5-1.5g/kg bodyweight for hormonal health"
+  },
+  {
+    "query": "Can you recommend a workout routine for building strength?",
+    "retrieved_documents": [
+      {
+        "id": "exercise_programming",
+        "title": "Principles of Exercise Programming"
+      },
+      {
+        "id": "beginner_exercise",
+        "title": "Exercise Guide for Beginners"
+      },
+      {
+        "id": "fitness_goals",
+        "title": "Understanding Different Fitness Goals"
+      }
+    ],
+    "answer": "Based on the available information:\n\nFor muscle building and strength gains, focus on progressive overload with proper nutrition. Key recommendations:\n- Prioritize compound exercises (squats, deadlifts, bench press, rows)\n- Train with weights at 70-85% of your maximum capacity\n- Ensure adequate protein intake (1.6-2.2g per kg of bodyweight)\n- Allow proper recovery between training sessions (48 hours for each muscle group)\n\nA typical split might involve training each muscle group 2-3 times per week."
+  }
+]

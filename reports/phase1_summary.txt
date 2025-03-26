@@ -1,0 +1,75 @@
+Phase 1: Basic NLP Analysis of Exercise Data - Summary Report
+======================================================================
+
+Dataset Summary:
+----------------------------------------------------------------------
+Total number of exercises: 2918
+
+Exercise Types Distribution:
+- Strength: 2545 exercises
+- Stretching: 147 exercises
+- Plyometrics: 97 exercises
+- Powerlifting: 37 exercises
+- Cardio: 35 exercises
+- Olympic Weightlifting: 35 exercises
+- Strongman: 22 exercises
+
+Muscle Groups Distribution:
+- Abdominals: 662 exercises
+- Quadriceps: 646 exercises
+- Shoulders: 340 exercises
+- Chest: 262 exercises
+- Biceps: 168 exercises
+- Triceps: 151 exercises
+- Lats: 124 exercises
+- Hamstrings: 121 exercises
+- Middle Back: 118 exercises
+- Lower Back: 97 exercises
+- Glutes: 81 exercises
+- Calves: 47 exercises
+- Forearms: 31 exercises
+- Traps: 24 exercises
+- Abductors: 21 exercises
+- Adductors: 17 exercises
+- Neck: 8 exercises
+
+Equipment Distribution:
+- Body Only: 1078 exercises
+- Dumbbell: 516 exercises
+- Barbell: 282 exercises
+- Other: 254 exercises
+- Cable: 226 exercises
+- Machine: 175 exercises
+- Kettlebells: 149 exercises
+- Bands: 100 exercises
+- Medicine Ball: 38 exercises
+- Exercise Ball: 35 exercises
+- E-Z Curl Bar: 22 exercises
+- Foam Roll: 11 exercises
+
+Difficulty Levels Distribution:
+- Intermediate: 2446 exercises
+- Beginner: 459 exercises
+- Expert: 13 exercises
+
+Top 20 Fitness Terms:
+1. reps (frequency: 1152)
+2. exercise (frequency: 1111)
+3. performed (frequency: 950)
+4. body (frequency: 905)
+5. muscles (frequency: 705)
+6. movement (frequency: 525)
+7. focused (frequency: 445)
+8. part (frequency: 442)
+9. high (frequency: 424)
+10. strength (frequency: 423)
+11. targeting (frequency: 374)
+12. workout (frequency: 373)
+13. targets (frequency: 350)
+14. core (frequency: 349)
+15. lower (frequency: 341)
+16. muscle (frequency: 339)
+17. upper (frequency: 331)
+18. time (frequency: 326)
+19. popular (frequency: 325)
+20. moderate (frequency: 320)

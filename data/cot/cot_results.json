@@ -1,0 +1,1295 @@
+[
+  {
+    "user": {
+      "id": 1,
+      "name": "Alex Johnson",
+      "fitness_level": "Beginner",
+      "goals": [
+        "Weight loss",
+        "General fitness"
+      ],
+      "equipment_available": [
+        "Body Only",
+        "Dumbbells"
+      ],
+      "preferred_exercises": [
+        "Cardio",
+        "Full body workouts"
+      ],
+      "time_available": "30 minutes",
+      "preferences": {
+        "home_workout": true,
+        "workout_intensity": "Moderate",
+        "focus_areas": [
+          "Abdominals",
+          "Legs"
+        ]
+      }
+    },
+    "matched_exercises": [
+      {
+        "user_id": 1,
+        "user_name": "Alex Johnson",
+        "exercise_id": 194,
+        "exercise_name": "Gorilla Chin/Crunch",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Body Only"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: Proper form is essential"
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.70",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": true
+            }
+          },
+          {
+            "step": 6,
+            "output": "Good match with some considerations for your fitness level and goals.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.7,
+        "final_recommendation": "Good match with some considerations for your fitness level and goals."
+      },
+      {
+        "user_id": 1,
+        "user_name": "Alex Johnson",
+        "exercise_id": 202,
+        "exercise_name": "Crunch - Hands Overhead",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Body Only"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: Proper form is essential"
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.70",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": true
+            }
+          },
+          {
+            "step": 6,
+            "output": "Good match with some considerations for your fitness level and goals.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.7,
+        "final_recommendation": "Good match with some considerations for your fitness level and goals."
+      },
+      {
+        "user_id": 1,
+        "user_name": "Alex Johnson",
+        "exercise_id": 204,
+        "exercise_name": "Stomach Vacuum",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Stretching, Target muscles: Abdominals, Equipment: Body Only"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: Proper form is essential"
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.70",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": true
+            }
+          },
+          {
+            "step": 6,
+            "output": "Good match with some considerations for your fitness level and goals.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.7,
+        "final_recommendation": "Good match with some considerations for your fitness level and goals."
+      },
+      {
+        "user_id": 1,
+        "user_name": "Alex Johnson",
+        "exercise_id": 208,
+        "exercise_name": "Butt-Ups",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Body Only"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: Proper form is essential"
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.70",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": true
+            }
+          },
+          {
+            "step": 6,
+            "output": "Good match with some considerations for your fitness level and goals.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.7,
+        "final_recommendation": "Good match with some considerations for your fitness level and goals."
+      },
+      {
+        "user_id": 1,
+        "user_name": "Alex Johnson",
+        "exercise_id": 217,
+        "exercise_name": "Janda Sit-Up",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Body Only"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: Proper form is essential"
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.70",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": true
+            }
+          },
+          {
+            "step": 6,
+            "output": "Good match with some considerations for your fitness level and goals.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.7,
+        "final_recommendation": "Good match with some considerations for your fitness level and goals."
+      },
+      {
+        "user_id": 1,
+        "user_name": "Alex Johnson",
+        "exercise_id": 218,
+        "exercise_name": "Leg Pull-In",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Body Only"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The reverse crunch is a popular exercise targeting the abdominals, particularly the lower half. It\u2019s..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.70",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": true
+            }
+          },
+          {
+            "step": 6,
+            "output": "Good match with some considerations for your fitness level and goals.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.7,
+        "final_recommendation": "Good match with some considerations for your fitness level and goals."
+      },
+      {
+        "user_id": 1,
+        "user_name": "Alex Johnson",
+        "exercise_id": 228,
+        "exercise_name": "Cross Crunch",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Body Only"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: Proper form is essential"
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.70",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": true
+            }
+          },
+          {
+            "step": 6,
+            "output": "Good match with some considerations for your fitness level and goals.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.7,
+        "final_recommendation": "Good match with some considerations for your fitness level and goals."
+      },
+      {
+        "user_id": 1,
+        "user_name": "Alex Johnson",
+        "exercise_id": 229,
+        "exercise_name": "Full Moon",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Body Only"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: Proper form is essential"
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.70",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": true
+            }
+          },
+          {
+            "step": 6,
+            "output": "Good match with some considerations for your fitness level and goals.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.7,
+        "final_recommendation": "Good match with some considerations for your fitness level and goals."
+      },
+      {
+        "user_id": 1,
+        "user_name": "Alex Johnson",
+        "exercise_id": 230,
+        "exercise_name": "Hanging knee raise with manual resistance",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Body Only"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The hanging knee raise with manual resistance is a more advanced version of the hanging knee raise t..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.70",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": true
+            }
+          },
+          {
+            "step": 6,
+            "output": "Good match with some considerations for your fitness level and goals.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.7,
+        "final_recommendation": "Good match with some considerations for your fitness level and goals."
+      },
+      {
+        "user_id": 1,
+        "user_name": "Alex Johnson",
+        "exercise_id": 234,
+        "exercise_name": "Partner lying leg raise with lateral throw down",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Body Only"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The partner lying leg raise with lateral throw down is a core exercise in which one partner performs..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.70",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": true
+            }
+          },
+          {
+            "step": 6,
+            "output": "Good match with some considerations for your fitness level and goals.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.7,
+        "final_recommendation": "Good match with some considerations for your fitness level and goals."
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 2,
+      "name": "Jordan Smith",
+      "fitness_level": "Intermediate",
+      "goals": [
+        "Muscle gain",
+        "Strength"
+      ],
+      "equipment_available": [
+        "Barbell",
+        "Dumbbells",
+        "Cable"
+      ],
+      "preferred_exercises": [
+        "Strength training",
+        "Weight lifting"
+      ],
+      "time_available": "60 minutes",
+      "preferences": {
+        "home_workout": false,
+        "workout_intensity": "High",
+        "focus_areas": [
+          "Chest",
+          "Back",
+          "Arms"
+        ]
+      }
+    },
+    "matched_exercises": [
+      {
+        "user_id": 2,
+        "user_name": "Jordan Smith",
+        "exercise_id": 8,
+        "exercise_name": "Barbell roll-out",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Barbell"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The barbell roll-out is an abdominal exercise that utilizes a barbell in the place of an ab roller. ..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 2,
+        "user_name": "Jordan Smith",
+        "exercise_id": 9,
+        "exercise_name": "Barbell Ab Rollout - On Knees",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Barbell"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The barbell roll-out is an abdominal exercise that utilizes a barbell in the place of an ab roller. ..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 2,
+        "user_name": "Jordan Smith",
+        "exercise_id": 10,
+        "exercise_name": "Decline bar press sit-up",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Barbell"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The decline bar press sit-up is a weighted core exercise targeting the abdominal muscles, particular..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 2,
+        "user_name": "Jordan Smith",
+        "exercise_id": 11,
+        "exercise_name": "Bench barbell roll-out",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Barbell"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The bench barbell roll-out is a challenging exercise targeting the abdominals. It is similar to usin..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 2,
+        "user_name": "Jordan Smith",
+        "exercise_id": 12,
+        "exercise_name": "Barbell Side Bend",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Barbell"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: Proper form is essential"
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 2,
+        "user_name": "Jordan Smith",
+        "exercise_id": 13,
+        "exercise_name": "Seated bar twist",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Barbell"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: PVC"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The seated bar twist is a core exercise meant to strengthen the obliques. It is often performed for ..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 2,
+        "user_name": "Jordan Smith",
+        "exercise_id": 14,
+        "exercise_name": "Single-arm landmine pull and press",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Barbell"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The single-arm landmine pull and press is an explosive rotational movement using a barbell anchored ..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 2,
+        "user_name": "Jordan Smith",
+        "exercise_id": 15,
+        "exercise_name": "Barbell Ab Roll Out - Gethin Variation",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Barbell"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The barbell roll-out is an abdominal exercise that utilizes a barbell in the place of an ab roller. ..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 2,
+        "user_name": "Jordan Smith",
+        "exercise_id": 16,
+        "exercise_name": "30 Barbell Floor Wiper",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Barbell"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The barbell floor wiper is a core exercise in which the barbell is held in the locked-out position o..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 2,
+        "user_name": "Jordan Smith",
+        "exercise_id": 17,
+        "exercise_name": "30 Barbell Roll-Out",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Barbell"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The barbell roll-out is an abdominal exercise that utilizes a barbell in the place of an ab roller. ..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 3,
+      "name": "Taylor Williams",
+      "fitness_level": "Advanced",
+      "goals": [
+        "Endurance",
+        "Functional fitness"
+      ],
+      "equipment_available": [
+        "Body Only",
+        "Kettlebells",
+        "Medicine Ball"
+      ],
+      "preferred_exercises": [
+        "HIIT",
+        "Functional training"
+      ],
+      "time_available": "45 minutes",
+      "preferences": {
+        "home_workout": true,
+        "workout_intensity": "Very High",
+        "focus_areas": [
+          "Full body",
+          "Core"
+        ]
+      }
+    },
+    "matched_exercises": [
+      {
+        "user_id": 3,
+        "user_name": "Taylor Williams",
+        "exercise_id": 21,
+        "exercise_name": "Kettlebell Windmill",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Kettlebells"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The single-kettlebell windmill is a dynamic kettlebell exercise emphasizing core strength and should..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 3,
+        "user_name": "Taylor Williams",
+        "exercise_id": 23,
+        "exercise_name": "Kettlebell 3-point leg extension",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Kettlebells"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The kettlebell 3-point leg extension is a dynamic core exercise performed around and over a kettlebe..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 3,
+        "user_name": "Taylor Williams",
+        "exercise_id": 24,
+        "exercise_name": "Double Kettlebell Swing",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Kettlebells"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: Proper form is essential"
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 3,
+        "user_name": "Taylor Williams",
+        "exercise_id": 25,
+        "exercise_name": "Burpee over kettlebell",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Kettlebells"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The burpee over kettlebell is a more advanced version of a popular conditioning exercise. If you're ..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 3,
+        "user_name": "Taylor Williams",
+        "exercise_id": 26,
+        "exercise_name": "Kettlebell toe-touch",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Kettlebells"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The kettlebell toe-touch is a more difficult version of a highly popular abdominal movement usually ..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 3,
+        "user_name": "Taylor Williams",
+        "exercise_id": 27,
+        "exercise_name": "Kettlebell swing",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Kettlebells"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The kettlebell swing is a popular lower-body exercise emphasizing the hamstrings, glutes, and back m..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 3,
+        "user_name": "Taylor Williams",
+        "exercise_id": 28,
+        "exercise_name": "Two-way swing",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Kettlebells"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The two-way kettlebell swing is an exercise that alternates a chest-height kettlebell swing (sometim..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 3,
+        "user_name": "Taylor Williams",
+        "exercise_id": 29,
+        "exercise_name": "Kettlebell crab reach",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Kettlebells"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Intermediate"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: The kettlebell crab reach is a kettlebell pressing exercise in which the lifter presses a kettlebell..."
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.30",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "Focus on perfect form and consider advanced variations as you improve."
+          }
+        ],
+        "final_match_score": 0.3,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 3,
+        "user_name": "Taylor Williams",
+        "exercise_id": 20,
+        "exercise_name": "Advanced Kettlebell Windmill",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Kettlebells"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: Proper form is essential"
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.20",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.19999999999999998,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      },
+      {
+        "user_id": 3,
+        "user_name": "Taylor Williams",
+        "exercise_id": 22,
+        "exercise_name": "Kettlebell Pass Between The Legs",
+        "reasoning_steps": [
+          {
+            "step": 1,
+            "output": "Exercise type: Strength, Target muscles: Abdominals, Equipment: Kettlebells"
+          },
+          {
+            "step": 2,
+            "output": "Difficulty level: Beginner"
+          },
+          {
+            "step": 3,
+            "output": "Benefits: Targets Abdominals"
+          },
+          {
+            "step": 4,
+            "output": "Technique note: Proper form is essential"
+          },
+          {
+            "step": 5,
+            "output": "User-exercise match score: 0.20",
+            "match_details": {
+              "equipment_match": true,
+              "type_match": false,
+              "focus_match": false
+            }
+          },
+          {
+            "step": 6,
+            "output": "Not an ideal match. Consider other exercises that better align with your preferences.",
+            "progression_path": "As you progress, increase reps or add weights."
+          }
+        ],
+        "final_match_score": 0.19999999999999998,
+        "final_recommendation": "Not an ideal match. Consider other exercises that better align with your preferences."
+      }
+    ]
+  }
+]
