@@ -1,129 +1,26 @@
-# Personalized Exercise Recommendation System
+# GenAI Project: Exercise Recommendation System
 
-## Overview
+A comprehensive AI-powered exercise recommendation system that combines NLP, computer vision, and advanced reasoning frameworks to provide personalized fitness guidance.
 
-This project provides personalized exercise recommendations using advanced Natural Language Processing (NLP) and prompt engineering techniques. The system analyzes exercise data, matches exercises to user profiles, and creates custom workout plans based on fitness goals, equipment availability, and experience level.
+## Project Overview
 
-## Project Structure
+This project implements a sophisticated exercise recommendation system using various AI techniques across five phases:
 
-The project is organized into three phases:
-
-1. **Phase 1: Basic NLP Analysis of Exercise Data**
-   - Data preprocessing and cleaning
-   - POS (Part-of-Speech) tagging for exercise descriptions
-   - Word embeddings using Word2Vec and BERT
-
-2. **Phase 2: Advanced Reasoning with Prompt Engineering Techniques**
-   - Chain of Thought (CoT) reasoning for exercise matching
-   - Tree of Thought (ToT) for exploring workout decision pathways
-   - Graph of Thought (GoT) for mapping exercise relationships
-
-3. **Phase 3: Retrieval-Augmented Generation for Exercise Questions**
-   - Knowledge base creation with exercise information
-   - FAISS indexing for efficient similarity search
-   - RAG system for answering exercise-related questions
-
-## Technologies Used
-
-- **Python**: Core programming language
-- **NLP Libraries**:
-  - NLTK: For text processing, tokenization, and POS tagging
-  - Gensim: For Word2Vec embeddings
-  - Sentence Transformers: For BERT embeddings
-- **Machine Learning**:
-  - scikit-learn: For dimensionality reduction (PCA, t-SNE)
-  - UMAP: For non-linear dimensionality reduction
-  - FAISS: For efficient similarity search
-- **Data Processing**:
-  - Pandas: For data manipulation
-  - NumPy: For numerical operations
-- **Visualization**:
-  - Matplotlib & Seaborn: For data visualization
-- **GUI**:
-  - Tkinter: For the application interface
-
-## Dataset
-
-The project uses the MegaGym dataset (`megaGymDataset.csv`), which contains exercises with descriptions, target muscle groups, equipment requirements, and difficulty levels.
-
-## Installation & Setup
-
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   cd GenAI_Project
-   ```
-
-2. Install dependencies:
-   ```
-   python phase1setup.py
-   ```
-
-   This will install required packages:
-   - pandas
-   - numpy
-   - nltk
-   - matplotlib
-   - seaborn
-   - scikit-learn
-   - gensim
-   - sentence-transformers
-   - umap-learn
-
-3. Download required NLTK resources (automatically handled by setup):
-   - punkt
-   - stopwords
-   - averaged_perceptron_tagger
-   - wordnet
-
-## Usage
-
-### Running the Complete Project
-
-To run all three phases sequentially:
-
-```
-python main.py
-```
-
-### Running Individual Phases
-
-```
-# Phase 1: Basic NLP Analysis
-python phase1_main.py
-
-# Phase 2: Advanced Reasoning
-python phase2_main.py
-
-# Phase 3: Retrieval-Augmented Generation
-python phase3.py
-```
-
-### GUI Interface
-
-For an interactive experience with the recommendation system:
-
-```
-python run_gui.py
-```
-
-or
-
-```
-python app.py
-```
+1. **Phase 1**: Basic NLP Analysis of Exercise Data
+2. **Phase 2**: Exercise Recommendation Frameworks
+3. **Phase 3**: Exercise Knowledge Assistant (RAG)
+4. **Phase 4**: Multimodal Agents
+5. **Phase 5**: Model Fine-Tuning with LoRA
 
 ## Features
 
 ### Phase 1: Basic NLP Analysis
-
 - Preprocesses exercise data to extract key features
 - Analyzes exercise descriptions using POS tagging
 - Generates word embeddings using Word2Vec and BERT
 - Produces visualizations of exercise relationships
 
 ### Phase 2: Advanced Reasoning Frameworks
-
 - **Chain of Thought (CoT)**:
   - 6-step reasoning process for exercise matching
   - Analyzes exercise characteristics, difficulty, benefits, and techniques
@@ -139,63 +36,132 @@ python app.py
   - Identifies complementary exercises for related muscle groups
   - Discovers exercise substitutions based on available equipment
 
-### Phase 3: Retrieval-Augmented Generation
+### Phase 3: Exercise Knowledge Assistant (RAG)
+- Implements a Retrieval-Augmented Generation system
+- Uses `all-MiniLM-L6-v2` for semantic search
+- FAISS for efficient similarity search
+- Custom knowledge base of exercise information
+- Generates detailed exercise instructions and recommendations
 
-- Creates a knowledge base of exercise information
-- Uses vector embeddings for semantic search
-- Answers questions about:
-  - Exercises for specific goals (weight loss, muscle building)
-  - Beginner workout recommendations
-  - Targeted muscle group training
-  - Nutrition for workouts
-  - Customized workout routines
+### Phase 4: Multimodal Agents
+- Image recognition using BLIP model (`Salesforce/blip-image-captioning-base`)
+- Voice input processing with speech recognition
+- Text input handling with advanced NLP
+- Unified interface for all input modalities
 
-## Project Outputs
+### Phase 5: Model Fine-Tuning with LoRA
+- Fine-tunes `bert-base-uncased` using LoRA
+- Low-rank adaptation for efficient training
+- Custom configuration for exercise-specific tasks
+- Saves fine-tuned model for improved performance
 
-### Reports
+## Installation
 
-- `reports/phase1_summary.txt`: Summary of NLP analysis results
-- `reports/phase2_report.md`: Detailed report on reasoning frameworks
-- `reports/phase3_report.md`: RAG system results and sample queries
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd GenAI_Project
+   ```
 
-### Data & Visualizations
+2. Install dependencies:
+   ```bash
+   python phase1setup.py
+   ```
 
-- `data/embeddings/visualizations/`: Word2Vec and BERT embedding visualizations
-- `data/tot/exercise_decision_tree.png`: Tree of Thought exercise decision paths
-- `data/got/exercise_relationships.png`: Graph of exercise relationships
+   This will install required packages:
+   - pandas, numpy, nltk
+   - matplotlib, seaborn, scikit-learn
+   - gensim, sentence-transformers
+   - transformers, torch
+   - faiss-cpu
+   - customtkinter
+   - pillow, opencv-python
+   - speech_recognition, pytesseract
 
-## Sample Results
+3. Download required NLTK resources (automatically handled by setup):
+   - punkt
+   - stopwords
+   - averaged_perceptron_tagger
+   - wordnet
 
-### Chain of Thought Exercise Matching
+## Usage
 
-The system analyzes user profiles and recommends exercises with detailed reasoning:
+### Running the Complete Project
+
+To run all five phases sequentially:
+```bash
+python main.py
+```
+
+### Running Individual Phases
+
+```bash
+# Phase 1: Basic NLP Analysis
+python phase1_main.py
+
+# Phase 2: Advanced Reasoning
+python phase2_main.py
+
+# Phase 3: RAG System
+python phase3.py
+
+# Phase 4: Multimodal Demo
+python phase4.py
+
+# Phase 5: Model Fine-Tuning
+python phase5.py
+```
+
+### GUI Interface
+
+For an interactive experience with the recommendation system:
+```bash
+python app.py
+```
+
+## Project Structure
 
 ```
-User: Alex Johnson
-Fitness Level: Beginner
-Goals: Weight loss, General fitness
-Equipment: Body Only, Dumbbells
-
-Top Match Score: 0.70
-Recommendation: Good match with some considerations for your fitness level and goals.
+GenAI_Project/
+├── app.py                  # Main GUI application
+├── main.py                 # Project entry point
+├── phase1.py              # Basic NLP analysis
+├── phase1_main.py         # Phase 1 entry point
+├── phase1setup.py         # Setup and dependencies
+├── phase2.py              # Chain of Thought implementation
+├── phase2_main.py         # Phase 2 entry point
+├── phase3.py              # RAG system implementation
+├── phase4.py              # Multimodal agents
+├── phase5.py              # LoRA fine-tuning
+├── data/                  # Data directory
+│   ├── processed/         # Processed data
+│   ├── embeddings/        # Word embeddings
+│   ├── cot/              # Chain of Thought results
+│   ├── tot/              # Tree of Thought results
+│   └── got/              # Graph of Thought results
+├── reports/              # Generated reports
+└── results/              # Output results
 ```
 
-### RAG System Sample Queries
+## Models Used
 
-The system can answer questions like:
+1. **BLIP Model**: `Salesforce/blip-image-captioning-base`
+   - Used for image captioning and exercise recognition
 
-1. What exercises are best for weight loss?
-2. How should I start exercising as a beginner?
-3. What's the best way to build muscle in my arms?
-4. What should I eat before and after a workout?
-5. Can you recommend a workout routine for building strength?
+2. **Sentence Transformer**: `all-MiniLM-L6-v2`
+   - Used for semantic search in RAG system
+
+3. **Base Model**: `bert-base-uncased`
+   - Fine-tuned using LoRA for exercise-specific tasks
 
 ## Future Enhancements
 
-- Integration with more powerful language models for response generation
+- Integration with more powerful language models
 - User profile-based personalization
-- Expansion of the knowledge base with specialized exercise information
-- Interactive features to refine recommendations based on user feedback
+- Expansion of the knowledge base
+- Interactive features for recommendation refinement
+- Implementation of QLoRA for better efficiency
+- Enhanced evaluation metrics for model performance
 
 ## Contributors
 
