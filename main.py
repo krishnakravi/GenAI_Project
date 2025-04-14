@@ -45,14 +45,16 @@ prompt engineering techniques. The system analyzes exercise data, matches exerci
 to user profiles, and creates custom workout plans based on fitness goals, 
 equipment availability, and experience level.
 
-The project is organized in three phases:
+The project is organized in five phases:
 1. Basic NLP Analysis of Exercise Data
 2. Advanced Reasoning with Prompt Engineering Techniques
 3. Retrieval-Augmented Generation for Exercise Questions
+4. Multimodal Input Handling for User Queries
+5. Model Fine-Tuning Using LoRA
     """)
 
 def run_all_phases():
-    """Run all three phases of the project"""
+    """Run all five phases of the project"""
     start_time = time.time()
     
     # Create directories
@@ -82,6 +84,39 @@ def run_all_phases():
     rag_system = build_rag_system()
     demo_results = demo_rag_queries(rag_system)
     
+    # Phase 4: Multimodal Agents Demonstration
+    print("\n" + "="*50)
+    print("PHASE 4: MULTIMODAL AGENTS DEMONSTRATION")
+    print("="*50)
+    
+    # Text input example
+    text_query = "What are some beginner exercises for legs?"
+    print("Text Input Query:", text_query)
+    response = rag_system.answer_query(text_query)
+    print("Response:", response['answer'])
+    
+    # Simulated voice input (in reality, would convert voice to text)
+    voice_query = "What exercises can I do with dumbbells?"
+    print("\nSimulated Voice Input Query:", voice_query)
+    response = rag_system.answer_query(voice_query)
+    print("Response:", response['answer'])
+    
+    # Simulated image input (e.g., image with text "I have a treadmill, what exercises can I do?")
+    image_query = "I have a treadmill, what exercises can I do?"
+    print("\nSimulated Image Input Query:", image_query)
+    response = rag_system.answer_query(image_query)
+    print("Response:", response['answer'])
+    
+    # Phase 5: Model Fine-Tuning with LoRA
+    print("\n" + "="*50)
+    print("PHASE 5: MODEL FINE-TUNING WITH LORA")
+    print("="*50)
+    from phase5 import fine_tune_model
+    if os.path.exists("./fine_tuned_model"):
+        print("Fine-tuned model already exists. Skipping fine-tuning.")
+    else:
+        fine_tune_model()
+    
     # Print completion message
     elapsed_time = time.time() - start_time
     print("\n" + "="*50)
@@ -91,6 +126,8 @@ def run_all_phases():
     print("- Phase 1: data/processed, data/pos_analysis, data/embeddings")
     print("- Phase 2: data/cot, data/tot, data/got")
     print("- Phase 3: data/knowledge_base, data/embeddings, data/faiss, results")
+    print("- Phase 4: Demonstrated multimodal query handling")
+    print("- Phase 5: Fine-tuned model saved to ./fine_tuned_model")
     print("\nReports:")
     print("- Phase 1: reports/phase1_report.md")
     print("- Phase 2: reports/phase2_report.md")
