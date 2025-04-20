@@ -21,6 +21,14 @@ except ImportError:
         return None
     logger.warning("Phase 3 RAG system not found. RAG functionality will be disabled.")
 
+# Import phase6 functionality
+try:
+    from phase6 import run_evaluation
+except ImportError:
+    def run_evaluation():
+        return None
+    logger.warning("Phase 6 evaluation framework not found. Evaluation functionality will be disabled.")
+
 class ExerciseRecommendationApp:
     def __init__(self, root):
         self.root = root
@@ -220,7 +228,15 @@ class ExerciseRecommendationApp:
             text="Upload Image",
             command=self.handle_image_input
         )
-        self.image_button.grid(row=2, column=0, columnspan=3, pady=5)
+        self.image_button.grid(row=2, column=0, columnspan=2, pady=5)
+        
+        # Add evaluation button
+        self.evaluate_button = ttk.Button(
+            self.main_frame,
+            text="Evaluate System",
+            command=self.handle_evaluation
+        )
+        self.evaluate_button.grid(row=2, column=2, pady=5)
 
         # Configure resizing
         self.root.columnconfigure(0, weight=1)
@@ -274,6 +290,59 @@ class ExerciseRecommendationApp:
             text = self.process_image_input(file_path)
             if text:
                 self.process_input(text)
+
+    def handle_evaluation(self):
+        """Handle evaluation button click"""
+        self.add_message("System: Starting system evaluation. This may take a moment...")
+        
+        try:
+            # Run evaluation in a separate thread to keep UI responsive
+            import threading
+            
+            def run_eval():
+                # Run the evaluation
+                evaluation_report = run_evaluation()
+                
+                # Display evaluation summary
+                if evaluation_report:
+                    self.add_message("System: Evaluation completed successfully.")
+                    
+                    # Extract key metrics
+                    if evaluation_report.get('classification_metrics'):
+                        accuracy = evaluation_report['classification_metrics'].get('accuracy', 'N/A')
+                        f1 = evaluation_report['classification_metrics'].get('f1', 'N/A')
+                        self.add_message(f"Classification Accuracy: {accuracy:.4f}, F1 Score: {f1:.4f}")
+                    
+                    if evaluation_report.get('generation_metrics'):
+                        bleu = evaluation_report['generation_metrics'].get('bleu', 'N/A')
+                        rouge_l = evaluation_report['generation_metrics'].get('rougeL', 'N/A')
+                        self.add_message(f"Generation Quality - BLEU: {bleu:.4f}, ROUGE-L: {rouge_l:.4f}")
+                    
+                    if evaluation_report.get('user_satisfaction'):
+                        satisfaction = evaluation_report['user_satisfaction'].get('average_satisfaction', 'N/A')
+                        self.add_message(f"Average User Satisfaction: {satisfaction:.2f}/5.0")
+                    
+                    # Show path to full report
+                    self.add_message("Full evaluation report available at: reports/evaluation/evaluation_report.md")
+                    
+                    # Try to open the evaluation report
+                    report_path = os.path.abspath("reports/evaluation/evaluation_report.md")
+                    if os.path.exists(report_path):
+                        import subprocess
+                        try:
+                            os.startfile(report_path) if os.name == 'nt' else subprocess.call(['open', report_path])
+                        except:
+                            pass
+                else:
+                    self.add_message("System: Evaluation could not be completed. Check logs for details.")
+            
+            # Start evaluation in a separate thread
+            eval_thread = threading.Thread(target=run_eval)
+            eval_thread.daemon = True
+            eval_thread.start()
+            
+        except Exception as e:
+            self.add_message(f"System: Error during evaluation: {str(e)}")
 
 def main():
     root = tk.Tk()

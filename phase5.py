@@ -122,13 +122,14 @@ def fine_tune_model(dataset_path="data/processed_exercises_clean.csv"):
     # Training arguments
     training_args = TrainingArguments(
         output_dir="./results",
-        evaluation_strategy="no",  # Disable evaluation if no validation set
         learning_rate=2e-5,
         per_device_train_batch_size=8,
         num_train_epochs=3,
         weight_decay=0.01,
         logging_dir='./logs',
         logging_steps=10,
+        save_strategy="no",
+        report_to="none"
     )
     
     # Initialize Trainer

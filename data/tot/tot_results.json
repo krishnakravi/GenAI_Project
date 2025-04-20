@@ -28,7 +28,7 @@
         "pathway_description": "Emphasizes cardiovascular exercises for calorie burning",
         "is_suitable": false,
         "reasoning": [
-          "Missing essential equipment: Exercise Ball, Dumbbell, Kettlebells"
+          "Missing essential equipment: Dumbbell, Exercise Ball, Medicine Ball"
         ],
         "recommended_exercises": [
           {
@@ -96,7 +96,7 @@
         "is_suitable": false,
         "reasoning": [
           "Intensity too high for beginner level",
-          "Missing essential equipment: Foam Roll, Bands, E-Z Curl Bar"
+          "Missing essential equipment: Barbell, Dumbbell, Bands"
         ],
         "recommended_exercises": [
           {
@@ -218,7 +218,7 @@
         "pathway_description": "Full-body workout with minimal rest between exercises",
         "is_suitable": false,
         "reasoning": [
-          "Missing essential equipment: Foam Roll, Bands, E-Z Curl Bar"
+          "Missing essential equipment: Barbell, Dumbbell, Bands"
         ],
         "recommended_exercises": [
           {
@@ -291,19 +291,19 @@
         ],
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2738,
-            "Title": "Shadow boxing",
-            "Desc": "Shadow boxing is an exercise typically used in combat sports and fighting. However, it can also make a great cardio session for anyone to implement in a fast-paced circuit or as active rest. It is usually performed for time or rounds.",
+            "Unnamed: 0": 2175,
+            "Title": "Slow Jog",
+            "Desc": NaN,
             "Type": "Cardio",
-            "BodyPart": "Shoulders",
+            "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
-            "Level": "Intermediate",
+            "Level": "Beginner",
             "Rating": 0.0,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2235,
-            "Title": "HM Running Lunge",
+            "Unnamed: 0": 2207,
+            "Title": "FYR Sprinter Burpee",
             "Desc": NaN,
             "Type": "Cardio",
             "BodyPart": "Quadriceps",
@@ -313,20 +313,20 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2134,
-            "Title": "Walking High Knees",
-            "Desc": NaN,
+            "Unnamed: 0": 2191,
+            "Title": "Shuttle run",
+            "Desc": "The shuttle run is an athletic conditioning drill that\u2019s great for developing speed and power, as well as changing direction. It\u2019s a favorite of football and basketball players, but it can also be great conditioning work for lifters and athletes of all ability levels.",
             "Type": "Cardio",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": 7.8,
-            "RatingDesc": "Average"
+            "Rating": NaN,
+            "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 419,
-            "Title": "30 Landmine Twist",
-            "Desc": "The landmine twist is a rotational abdominal movement performed utilizing an angled barbell anchored at floor level in a landmine device. It can also be performed by sticking a barbell in the corner of a room, preferably in a towel to protect the walls. It targets the deep muscles of the core, including both the obliques and the transversus abdominus. It can be done fast or slow, for time or reps, either in traditional muscle-focused rep ranges such as 8-12 reps per side.",
+            "Unnamed: 0": 507,
+            "Title": "Holman Hands-Elevated Straight Plank Pike",
+            "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Abdominals",
             "Equipment": "Body Only",
@@ -335,11 +335,11 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2272,
-            "Title": "UNS Half-Kneeling Hip Flexor Stretch",
+            "Unnamed: 0": 341,
+            "Title": "HM Toe Touch",
             "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Quadriceps",
+            "BodyPart": "Abdominals",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
@@ -358,53 +358,53 @@
         ],
         "recommended_exercises": [
           {
-            "Unnamed: 0": 1613,
-            "Title": "HM Downward-Facing Dog Pose",
+            "Unnamed: 0": 466,
+            "Title": "Holman In-Out Straight Plank",
             "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Lower Back",
+            "BodyPart": "Abdominals",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 1265,
-            "Title": "Walking lunge",
-            "Desc": "The walking lunge is a lower-body exercise that targets the glutes, quads, and hamstrings while challenging stability and balance. It can be performed for reps, time, or distance in the lower-body portion of any workout.",
+            "Unnamed: 0": 542,
+            "Title": "Holman Feet-Elevated Right Side Plank",
+            "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Glutes",
+            "BodyPart": "Abdominals",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 981,
-            "Title": "Side-to-side push-up",
-            "Desc": "The side-to-side push-up is a variation of the push-up exercise where you side-step the opposite hand and foot and perform a push-up.",
+            "Unnamed: 0": 251,
+            "Title": "Side lunge cross-body heel-touch",
+            "Desc": "The side lunge cross-body heel-touch is a lower-body exercise targeting the quads, glutes, and hamstrings. The heel-touch adds a slight rotational challenge.",
             "Type": "Strength",
-            "BodyPart": "Chest",
+            "BodyPart": "Abdominals",
             "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 6.7,
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2140,
+            "Title": "Skip",
+            "Desc": "The skip is an exercise that builds power and explosiveness in the legs. It's commonly performed by children and in gym classes, but is also great for working the legs and hip flexors, making it a favorite warm-up for athletes who need to explode vertically.",
+            "Type": "Plyometrics",
+            "BodyPart": "Quadriceps",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": 5.5,
             "RatingDesc": "Average"
           },
           {
             "Unnamed: 0": 2168,
             "Title": "Quick Leap",
             "Desc": NaN,
-            "Type": "Plyometrics",
-            "BodyPart": "Quadriceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 0.0,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2180,
-            "Title": "In-out jump squat",
-            "Desc": "The in-out jump squat is a bodyweight squat variation that alternates wide and narrow jump squats. It targets the lower-body muscles, including the quads, glutes, adductors, and hamstrings, and also provides a serious cardiovascular challenge. It can be performed for time or reps and is especially effective in a fat-loss or athleticism-focused circuit or workout.",
             "Type": "Plyometrics",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
@@ -425,59 +425,59 @@
         ],
         "recommended_exercises": [
           {
-            "Unnamed: 0": 250,
-            "Title": "Crab single-arm reach",
-            "Desc": "The crab single-arm reach is a full-body exercise that requires maintaining a tabletop position while alternating arm raises. It is an excellent movement to include in a dynamic warm-up, a bodyweight circuit, or for muscle activation or mobility anytime.",
-            "Type": "Stretching",
-            "BodyPart": "Abdominals",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2745,
-            "Title": "PVC Shoulder Stretch",
+            "Unnamed: 0": 1600,
+            "Title": "Pyramid",
             "Desc": NaN,
             "Type": "Stretching",
+            "BodyPart": "Lower Back",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": 1.0,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 2150,
+            "Title": "On-Your-Back Quad Stretch",
+            "Desc": NaN,
+            "Type": "Stretching",
+            "BodyPart": "Quadriceps",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": 3.3,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 905,
+            "Title": "Knee Circles",
+            "Desc": NaN,
+            "Type": "Stretching",
+            "BodyPart": "Calves",
+            "Equipment": "Body Only",
+            "Level": "Beginner",
+            "Rating": 6.3,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 2738,
+            "Title": "Shadow boxing",
+            "Desc": "Shadow boxing is an exercise typically used in combat sports and fighting. However, it can also make a great cardio session for anyone to implement in a fast-paced circuit or as active rest. It is usually performed for time or rounds.",
+            "Type": "Cardio",
             "BodyPart": "Shoulders",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": NaN,
+            "Rating": 0.0,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2891,
-            "Title": "Triceps Stretch",
+            "Unnamed: 0": 2165,
+            "Title": "Fast Kick With Arm Circles",
             "Desc": NaN,
-            "Type": "Stretching",
-            "BodyPart": "Triceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 4.8,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2191,
-            "Title": "Shuttle run",
-            "Desc": "The shuttle run is an athletic conditioning drill that\u2019s great for developing speed and power, as well as changing direction. It\u2019s a favorite of football and basketball players, but it can also be great conditioning work for lifters and athletes of all ability levels.",
             "Type": "Cardio",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
+            "Level": "Beginner",
+            "Rating": 0.0,
             "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2118,
-            "Title": "Jumping rope",
-            "Desc": "Jumping rope is a classic conditioning exercise that is popular with everyone from children to boxers to CrossFit athletes. It targets many different muscles, including the calves, glutes, shoulders, and upper back, and is great for everything from fat loss to improving overall athletic performance.",
-            "Type": "Cardio",
-            "BodyPart": "Quadriceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 9.2,
-            "RatingDesc": "Average"
           }
         ],
         "frequency": "2-3 days per week",
@@ -590,8 +590,8 @@
         "description": "Upper Body Strength Focus",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 1042,
-            "Title": "FYR2 Push-Up-Breakdancer-Shoulder-Tap Complex",
+            "Unnamed: 0": 1040,
+            "Title": "MetaBurn Spiderman Push-Up",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Chest",
@@ -601,8 +601,19 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2905,
-            "Title": "Holman Couch Triceps Dip",
+            "Unnamed: 0": 1019,
+            "Title": "Holman Dynamo Push-Up",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Chest",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2903,
+            "Title": "Bodyweight Triceps Rope Press",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Triceps",
@@ -612,33 +623,22 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2744,
-            "Title": "TBS Inverted Row",
-            "Desc": "The Smith machine inverted row is a bodyweight exercise targeting the muscles of the lats (latissimus dorsi) and upper back, using the bar of the Smith machine to hang and pull from. You can change the bar height to customize the difficulty level and desired angle of the row. This variation is usually performed for moderate to high reps, such as 8-12 reps per set or more.",
+            "Unnamed: 0": 1020,
+            "Title": "Holman Jump to Push-Up",
+            "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Shoulders",
+            "BodyPart": "Chest",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 982,
-            "Title": "Typewriter push-up",
-            "Desc": "The typewriter push-up is an advanced push-up variation where the hands are extra wide and you lower toward each hand in alternating reps. It is more challenging to each working arm than traditional push-ups and also stretches and challenges the chest.",
+            "Unnamed: 0": 1044,
+            "Title": "1.5-rep push-up",
+            "Desc": "The 1.5-rep push-up is a more difficult variation of the push-up, commonly used to train for military and tactical physical fitness tests. It builds upper-body muscle and strength, emphasizing the chest, core, upper back, triceps, and shoulders.",
             "Type": "Strength",
             "BodyPart": "Chest",
-            "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 0.0,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2756,
-            "Title": "Shoulder extension stretch",
-            "Desc": "The shoulder extension stretch is focused on bringing more flexibility to the shoulder joint. It increases range of motion in shoulder extension, or moving the arms behind the back. It can be performed as part of a warm-up or mobility and flexibility work post-workout or anytime.",
-            "Type": "Strength",
-            "BodyPart": "Shoulders",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
@@ -655,9 +655,9 @@
         "description": "Lower Body Strength Focus",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2212,
-            "Title": "Knee-tuck kick-up",
-            "Desc": "The knee-tuck kick-up is a bodyweight movement that targets the muscles of the abs, the rectus abdominis or \"six-pack\" muscles in particular. It can be performed for time or reps in the ab-focused portion of any workout.",
+            "Unnamed: 0": 2413,
+            "Title": "Shuttle run training",
+            "Desc": "Shuttle run training is an athletic conditioning drill that\u2019s great for developing speed and power, as well as changing direction. It\u2019s a favorite of football and basketball players, but it can also be great conditioning work for lifters and athletes of all ability levels.",
             "Type": "Strength",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
@@ -666,8 +666,8 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2362,
-            "Title": "Holman 180 Jump Hop Forward Hop Back",
+            "Unnamed: 0": 2302,
+            "Title": "Holman Skate",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Quadriceps",
@@ -677,8 +677,8 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2276,
-            "Title": "Holman Towel Alternating Prisoner Squat",
+            "Unnamed: 0": 2337,
+            "Title": "Holman Stair Sprint",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Quadriceps",
@@ -688,19 +688,19 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2199,
-            "Title": "Reverse Diagonal Skaters",
+            "Unnamed: 0": 1259,
+            "Title": "HM Single-Leg Bridge",
             "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Quadriceps",
+            "BodyPart": "Glutes",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2394,
-            "Title": "MetaBurn Frogger",
+            "Unnamed: 0": 2322,
+            "Title": "Holman Bear Crawl to Froggy Push-Up",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Quadriceps",
@@ -722,19 +722,19 @@
         "description": "Abdominals Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 223,
-            "Title": "Exercise ball torso rotation",
-            "Desc": "The exercise ball torso rotation is a rotational abdominal exercise performed while holding a yoga or exercise ball between the hands. It focuses on the rotational muscles of the core, including the obliques, glutes, and hip muscles. It can be performed one side at a time or alternating, either for time or reps. To make it more difficult, wrap a light exercise band around the ball and anchor it to a solid object.",
-            "Type": "Stretching",
+            "Unnamed: 0": 390,
+            "Title": "Bird dog-",
+            "Desc": "The bird dog is a core exercise designed to help strengthen and stabilize the posterior chain. It involves lifting an opposite-side arm and leg while in a bent-leg tabletop position. It is most commonly performed as part of a dynamic warm-up, or for mobility and muscle activation anytime.",
+            "Type": "Strength",
             "BodyPart": "Abdominals",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": 5.0,
-            "RatingDesc": "Average"
+            "Rating": NaN,
+            "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 402,
-            "Title": "UNS Bird Dog",
+            "Unnamed: 0": 582,
+            "Title": "MetaBurn Plank Wiper",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Abdominals",
@@ -744,8 +744,8 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 437,
-            "Title": "Holman Towel Hill Climber",
+            "Unnamed: 0": 459,
+            "Title": "Holman Alternating Single-Leg Pike",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Abdominals",
@@ -755,8 +755,19 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 594,
-            "Title": "MetaBurn Split-Leg Crunch",
+            "Unnamed: 0": 246,
+            "Title": "Exercise ball V-up",
+            "Desc": "The exercise ball V-up is a popular movement to target the abdominal muscles, particularly the rectus abdominis or \"six-pack\" muscles. It involves passing an exercise ball or yoga ball back and forth between the hands and feet while performing V-ups. It can be performed for reps or time as part of any ab-focused workout or bodyweight circuit.",
+            "Type": "Strength",
+            "BodyPart": "Abdominals",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 492,
+            "Title": "Holman Crab Kick",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Abdominals",
@@ -766,20 +777,9 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 327,
-            "Title": "Plank - Gethin Variation",
-            "Desc": "The elbow plank is a popular isometric abdominal exercise. It is common in all types of exercise programs, as well as in group fitness and yoga classes. It targets the muscles of the core, the deep core or transversus abdominis in particular. It is also often prescribed for time to help back pain or to teach proper bracing.",
-            "Type": "Strength",
-            "BodyPart": "Abdominals",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 411,
-            "Title": "30 Flat Bench Leg Raise",
-            "Desc": "The lying leg lift is a popular bodyweight exercise targeting the muscles of the abs, the rectus abdominis or \u201csix-pack\u201d muscles in particular. It can be performed for time or reps in the core-focused portion of any workout.",
+            "Unnamed: 0": 421,
+            "Title": "Otis-up-",
+            "Desc": "The Otis-up is a weighted exercise focusing on the abdominal muscles and the shoulders to a lesser degree. It primarily targets the rectus abdominis or \"six-pack\" muscles, but also involves the obliques and deep core muscles. It is normally performed on a decline bench holding a weight plate, but can also be performed with a dumbbell, kettlebell, or other weight.",
             "Type": "Strength",
             "BodyPart": "Abdominals",
             "Equipment": "Body Only",
@@ -798,9 +798,31 @@
         "description": "Chest Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 1045,
-            "Title": "ACFT Triple-clap push-up",
-            "Desc": "The triple-clap push-up is an explosive bodyweight exercise aimed at increasing upper-body power and strength. It is an advanced exercise targeting the muscles of the chest, triceps, core, and shoulders.",
+            "Unnamed: 0": 1047,
+            "Title": "Cross-over push-up",
+            "Desc": "The cross-over push-up is a variation of the push-up that adds a degree of difficulty by stepping over a small box or step between repetitions. It can be performed for time or for reps and creates a greater core stabilization challenge by forcing the core muscles to maintain the a neutral spine throughout the movement.",
+            "Type": "Strength",
+            "BodyPart": "Chest",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 1005,
+            "Title": "UN Push-Up",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Chest",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 997,
+            "Title": "Close push-up",
+            "Desc": "The close push-up is an upper-body exercise that targets the chest, triceps, and shoulders. The close hand position places more emphasis on the triceps.",
             "Type": "Strength",
             "BodyPart": "Chest",
             "Equipment": "Body Only",
@@ -820,8 +842,8 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 1027,
-            "Title": "Taylor Roll-Over Push-Up",
+            "Unnamed: 0": 1009,
+            "Title": "Holman Hand-Elevated Push-Up with Hand Row",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Chest",
@@ -831,30 +853,8 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 1044,
-            "Title": "1.5-rep push-up",
-            "Desc": "The 1.5-rep push-up is a more difficult variation of the push-up, commonly used to train for military and tactical physical fitness tests. It builds upper-body muscle and strength, emphasizing the chest, core, upper back, triceps, and shoulders.",
-            "Type": "Strength",
-            "BodyPart": "Chest",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 1038,
-            "Title": "MetaBurn Push-Up With Hand-Up Rotation",
-            "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Chest",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 1042,
-            "Title": "FYR2 Push-Up-Breakdancer-Shoulder-Tap Complex",
+            "Unnamed: 0": 1008,
+            "Title": "Holman Seal Drag to Push-Up",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Chest",
@@ -874,9 +874,31 @@
         "description": "Shoulders Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2755,
-            "Title": "Floor angel",
-            "Desc": "The floor angel is a stretch targeting shoulder mobility and activation of the shoulder stabilizer muscles. It also targets a range of postural muscles in the upper back.",
+            "Unnamed: 0": 2746,
+            "Title": "Shoulder T",
+            "Desc": "The bent-over plate rear delt raise is an exercise targeting the rear heads of the shoulders, aka deltoids. You can also use dumbbells or other light weights for a similar effect. This movement is usually performed as part of a dynamic warm-up, or as a high-rep burnout movement on a shoulder or back day.",
+            "Type": "Stretching",
+            "BodyPart": "Shoulders",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2732,
+            "Title": "Shoulder Raise",
+            "Desc": NaN,
+            "Type": "Stretching",
+            "BodyPart": "Shoulders",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": 4.1,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 2756,
+            "Title": "Shoulder extension stretch",
+            "Desc": "The shoulder extension stretch is focused on bringing more flexibility to the shoulder joint. It increases range of motion in shoulder extension, or moving the arms behind the back. It can be performed as part of a warm-up or mobility and flexibility work post-workout or anytime.",
             "Type": "Strength",
             "BodyPart": "Shoulders",
             "Equipment": "Body Only",
@@ -885,30 +907,19 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2741,
-            "Title": "Bent Over Shoulder Y",
-            "Desc": "The lying rear delt Y works the shoulders, specifically the rear heads. The range of motion differs from the lying rear delt fly. At the midpoint, the arms and torso form a Y\u2014hence the name.",
-            "Type": "Stretching",
+            "Unnamed: 0": 2726,
+            "Title": "Handstand push-up",
+            "Desc": "The handstand push-up is an exercise targeting the shoulders, although other muscles assist in the completion of the reps. It is common in both CrossFit workouts and advanced bodyweight or calisthenics training. Given the degree of difficulty, beginners will need to progress to this move.",
+            "Type": "Strength",
             "BodyPart": "Shoulders",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
+            "Rating": 8.7,
+            "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 2745,
-            "Title": "PVC Shoulder Stretch",
-            "Desc": NaN,
-            "Type": "Stretching",
-            "BodyPart": "Shoulders",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2743,
-            "Title": "Shoulder Dislocation Stretch-Dowel",
+            "Unnamed: 0": 2748,
+            "Title": "HM Shoulder Stretch",
             "Desc": NaN,
             "Type": "Stretching",
             "BodyPart": "Shoulders",
@@ -927,17 +938,6 @@
             "Level": "Intermediate",
             "Rating": 6.7,
             "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2731,
-            "Title": "Seated Front Deltoid",
-            "Desc": NaN,
-            "Type": "Stretching",
-            "BodyPart": "Shoulders",
-            "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 4.5,
-            "RatingDesc": "Average"
           }
         ],
         "reasoning": [
@@ -950,6 +950,39 @@
         "description": "Arms Focused Workout",
         "recommended_exercises": [
           {
+            "Unnamed: 0": 857,
+            "Title": "UN Pull-Up Neutral",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Biceps",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2884,
+            "Title": "Push-Ups - Close Triceps Position",
+            "Desc": "The close push-up is an upper-body exercise that targets the chest, triceps, and shoulders. The close hand position places more emphasis on the triceps.",
+            "Type": "Strength",
+            "BodyPart": "Triceps",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": 9.0,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 2902,
+            "Title": "Holman Chair Triceps Dip",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Triceps",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
             "Unnamed: 0": 2892,
             "Title": "Overhead Triceps",
             "Desc": NaN,
@@ -961,31 +994,9 @@
             "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 2888,
-            "Title": "Bodyweight triceps press",
-            "Desc": "The bodyweight triceps press is an arm movement that involves performing overhead presses in a face-down position on a Smith machine or other raised bar. It is a surprisingly difficult movement that hammers all three heads of the triceps and the difficulty can easily be scaled up or down by moving the bar.",
-            "Type": "Strength",
-            "BodyPart": "Triceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 8.2,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 856,
-            "Title": "UN Pull-Up Pronated",
-            "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Biceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2896,
-            "Title": "Bench Dips - Gethin Variation",
-            "Desc": "The bench dip is a highly effective exercise for building the triceps. The resistance comes from the body itself, rather than weight.",
+            "Unnamed: 0": 2897,
+            "Title": "Banded dip",
+            "Desc": "The banded dip is a bodyweight exercise targeting the chest, triceps, and shoulders. This variation utilizes an exercise band to help support the lifter in the bottom part of the movement. This makes pushing out of the hole easier, and may combat the shoulder pain that some lifters feel when they perform dips. The top of the movement receives less help from the band, putting more stress on the triceps.",
             "Type": "Strength",
             "BodyPart": "Triceps",
             "Equipment": "Body Only",
@@ -994,25 +1005,14 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2895,
-            "Title": "TBS Dip",
-            "Desc": "The triceps dip is a machine version of an exercise that many lifters perform using parallel bars or two parallel benches. The machine is found in many gyms.",
-            "Type": "Strength",
-            "BodyPart": "Triceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 852,
-            "Title": "Seated Biceps",
+            "Unnamed: 0": 2891,
+            "Title": "Triceps Stretch",
             "Desc": NaN,
             "Type": "Stretching",
-            "BodyPart": "Biceps",
+            "BodyPart": "Triceps",
             "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 5.0,
+            "Level": "Intermediate",
+            "Rating": 4.8,
             "RatingDesc": "Average"
           }
         ],
@@ -1026,8 +1026,8 @@
         "description": "Legs Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2392,
-            "Title": "MetaBurn Alternating Lateral Sprawl",
+            "Unnamed: 0": 2326,
+            "Title": "Holman Forward Lunge to Reverse Lunge",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Quadriceps",
@@ -1037,8 +1037,8 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2260,
-            "Title": "HM Left Knee-Up",
+            "Unnamed: 0": 2339,
+            "Title": "Holman Burpee to Flying Squat Thrust",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Quadriceps",
@@ -1048,8 +1048,8 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2327,
-            "Title": "Holman Renegade Lunge Jump",
+            "Unnamed: 0": 2222,
+            "Title": "HM Alternating Jump Lunge",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Quadriceps",
@@ -1059,31 +1059,31 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 1375,
-            "Title": "90/90 Hamstring",
-            "Desc": NaN,
-            "Type": "Stretching",
-            "BodyPart": "Hamstrings",
+            "Unnamed: 0": 2184,
+            "Title": "Jumping knee up-down",
+            "Desc": "The jumping knee up-down is an explosive bodyweight movement that consists of a knee up-down followed by a jump squat. It targets the muscles of the lower body, including the quads, glutes, and hamstrings, but is also a challenging power and conditioning exercise.",
+            "Type": "Plyometrics",
+            "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 5.0,
-            "RatingDesc": "Average"
+            "Level": "Intermediate",
+            "Rating": 0.0,
+            "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 1236,
-            "Title": "Standing hip extension",
-            "Desc": "The standing hip extension is a movement that activates the glutes and hamstrings. It is often performed either for time or reps as part of a dynamic warm-up.",
+            "Unnamed: 0": 2403,
+            "Title": "Lunge high-knee clap",
+            "Desc": "The lunge high-knee clap is a full-body, cardio-based exercise with emphasis on the lower body. It includes a clap under the front leg to make the movement more powerful and strict. It can be performed either for time or reps and is a great inclusion in a fat-loss or athleticism-focused circuit workout.",
             "Type": "Strength",
-            "BodyPart": "Glutes",
+            "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 6.5,
-            "RatingDesc": "Average"
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2306,
-            "Title": "Holman Half Jack to 180 Jump",
-            "Desc": NaN,
+            "Unnamed: 0": 2203,
+            "Title": "FYR Running Lunge",
+            "Desc": "The running lunge is a dynamic exercise that targets the lower body. It combines elements of a reverse lunge with a step-up, in that the front leg fully extends and the rear leg flexes up in front of the body. It targets a wide range of muscles in the lower body, including the quads, glutes, and hamstrings. It can be performed for time or reps in any lower-body workout, or in a fat-loss or athleticism-focused circuit.",
             "Type": "Strength",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
@@ -1127,7 +1127,7 @@
         "pathway_description": "Targets muscle growth through moderate weights and higher reps",
         "is_suitable": false,
         "reasoning": [
-          "Missing essential equipment: Foam Roll, E-Z Curl Bar, Exercise Ball"
+          "Missing essential equipment: Dumbbell, Foam Roll, Exercise Ball"
         ],
         "recommended_exercises": [
           {
@@ -1194,7 +1194,7 @@
         "pathway_description": "Emphasizes heavy weights and compound movements",
         "is_suitable": false,
         "reasoning": [
-          "Missing essential equipment: Foam Roll, E-Z Curl Bar, Exercise Ball"
+          "Missing essential equipment: Dumbbell, Foam Roll, Exercise Ball"
         ],
         "recommended_exercises": [
           {
@@ -1261,7 +1261,7 @@
         "pathway_description": "Targets specific muscle groups on different days",
         "is_suitable": false,
         "reasoning": [
-          "Missing essential equipment: Foam Roll, E-Z Curl Bar, Exercise Ball"
+          "Missing essential equipment: Dumbbell, Foam Roll, Exercise Ball"
         ],
         "recommended_exercises": [
           {
@@ -1334,37 +1334,37 @@
         ],
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2169,
-            "Title": "Vertical Mountain Climber",
-            "Desc": NaN,
-            "Type": "Cardio",
-            "BodyPart": "Quadriceps",
-            "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 0.0,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2165,
-            "Title": "Fast Kick With Arm Circles",
-            "Desc": NaN,
-            "Type": "Cardio",
-            "BodyPart": "Quadriceps",
-            "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 0.0,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2191,
-            "Title": "Shuttle run",
-            "Desc": "The shuttle run is an athletic conditioning drill that\u2019s great for developing speed and power, as well as changing direction. It\u2019s a favorite of football and basketball players, but it can also be great conditioning work for lifters and athletes of all ability levels.",
+            "Unnamed: 0": 2130,
+            "Title": "Treadmill walking",
+            "Desc": "Treadmill walking is a popular cardiovascular exercise performed on a machine that is available in most gyms. Performing this exercise on a treadmill allows you to adjust the speed of your walking and, depending on the machine, perform it on an adjustable incline. Many machines also have built-in heart rate monitors and timers to help you track your progress.",
             "Type": "Cardio",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
+            "Rating": 8.2,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 2134,
+            "Title": "Walking High Knees",
+            "Desc": NaN,
+            "Type": "Cardio",
+            "BodyPart": "Quadriceps",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": 7.8,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 2118,
+            "Title": "Jumping rope",
+            "Desc": "Jumping rope is a classic conditioning exercise that is popular with everyone from children to boxers to CrossFit athletes. It targets many different muscles, including the calves, glutes, shoulders, and upper back, and is great for everything from fat loss to improving overall athletic performance.",
+            "Type": "Cardio",
+            "BodyPart": "Quadriceps",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": 9.2,
+            "RatingDesc": "Average"
           }
         ],
         "frequency": "3-5 days per week",
@@ -1379,28 +1379,6 @@
         ],
         "recommended_exercises": [
           {
-            "Unnamed: 0": 349,
-            "Title": "HM Running Man Crunch",
-            "Desc": NaN,
-            "Type": "Cardio",
-            "BodyPart": "Abdominals",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2171,
-            "Title": "Football Up-Down",
-            "Desc": NaN,
-            "Type": "Cardio",
-            "BodyPart": "Quadriceps",
-            "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 0.0,
-            "RatingDesc": NaN
-          },
-          {
             "Unnamed: 0": 2123,
             "Title": "Burpee",
             "Desc": "The burpee is a high-intensity exercise that recruits the entire body to build strength and aerobic capacity. It is common in CrossFit workouts and group fitness classes, but can also be performed for time or reps in any fat-loss or athleticism-focused circuit or workout.",
@@ -1412,10 +1390,21 @@
             "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 2173,
-            "Title": "Burpee box jump",
-            "Desc": "The burpee box jump is an explosive bodyweight exercise that combines a burpee with a leap onto a box or step. First, you perform a traditional burpee, and then instead of jumping into the air, you jump onto a box. This makes you focus on power generation in the jump, making each rep more challenging. Burpee box jumps are often performed for high reps as part of metabolic conditioning circuits or workouts.",
-            "Type": "Plyometrics",
+            "Unnamed: 0": 2169,
+            "Title": "Vertical Mountain Climber",
+            "Desc": NaN,
+            "Type": "Cardio",
+            "BodyPart": "Quadriceps",
+            "Equipment": "Body Only",
+            "Level": "Beginner",
+            "Rating": 0.0,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2177,
+            "Title": "Jumping Jack",
+            "Desc": "The jumping jack is a classic calisthenics exercise to improve overall conditioning. It\u2019s one the most recognizable exercises on the planet, and it\u2019s almost synonymous with training for military recruits. It can be done for time or reps, often in dynamic warm-ups or to mobilize the hips and shoulders.",
+            "Type": "Cardio",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
             "Level": "Intermediate",
@@ -1423,15 +1412,26 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2185,
-            "Title": "Jump Lunge To Feet Jack",
+            "Unnamed: 0": 971,
+            "Title": "Incline Push-Up Depth Jump",
             "Desc": NaN,
             "Type": "Plyometrics",
-            "BodyPart": "Quadriceps",
+            "BodyPart": "Chest",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": 0.0,
-            "RatingDesc": NaN
+            "Rating": 8.3,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 196,
+            "Title": "Mountain climber",
+            "Desc": "The mountain climber is a popular bodyweight exercise targeting the muscles of the core, as well as the shoulders, hips, and cardiovascular system. It involves lifting one knee to the chest at a time from a straight-arm plank position. It can be performed for time or reps as part of a dynamic warm-up, for bodyweight cardio or conditioning, or as no-equipment dynamic core training.",
+            "Type": "Plyometrics",
+            "BodyPart": "Abdominals",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": 8.8,
+            "RatingDesc": "Average"
           }
         ],
         "frequency": "3-4 days per week",
@@ -1446,53 +1446,53 @@
         ],
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2176,
-            "Title": "High knees",
-            "Desc": "High knees is a full-body, cardio-based exercise with an emphasis on the lower body. It is often performed for reps or time as part of a dynamic warm-up.",
+            "Unnamed: 0": 2235,
+            "Title": "HM Running Lunge",
+            "Desc": NaN,
             "Type": "Cardio",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": 0.0,
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2123,
+            "Title": "Burpee",
+            "Desc": "The burpee is a high-intensity exercise that recruits the entire body to build strength and aerobic capacity. It is common in CrossFit workouts and group fitness classes, but can also be performed for time or reps in any fat-loss or athleticism-focused circuit or workout.",
+            "Type": "Cardio",
+            "BodyPart": "Quadriceps",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": 8.8,
             "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 2177,
-            "Title": "Jumping Jack",
-            "Desc": "The jumping jack is a classic calisthenics exercise to improve overall conditioning. It\u2019s one the most recognizable exercises on the planet, and it\u2019s almost synonymous with training for military recruits. It can be done for time or reps, often in dynamic warm-ups or to mobilize the hips and shoulders.",
+            "Unnamed: 0": 2739,
+            "Title": "Bear crawl fire feet",
+            "Desc": "Bear crawl fire feet is a variation of the bear crawl that involves running in place while in a static bear crawl hold. It adds an extra coordination and full-body challenge to an already intense full-body movement that targets the cardiovascular system as well as a wide range of muscle groups. It can be done as a full-body warm-up, or as part of a bodyweight circuit or flow.",
             "Type": "Cardio",
-            "BodyPart": "Quadriceps",
+            "BodyPart": "Shoulders",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": 0.0,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2165,
-            "Title": "Fast Kick With Arm Circles",
+            "Unnamed: 0": 202,
+            "Title": "Crunch - Hands Overhead",
             "Desc": NaN,
-            "Type": "Cardio",
-            "BodyPart": "Quadriceps",
+            "Type": "Strength",
+            "BodyPart": "Abdominals",
             "Equipment": "Body Only",
             "Level": "Beginner",
-            "Rating": 0.0,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 1638,
-            "Title": "Reverse-grip bent-over row",
-            "Desc": "The reverse-grip bent-over row is a compound exercise used to build strength and size in both the lower and upper back. It targets nearly all of the muscles in the back, but particularly the lats, rhomboids, and lower back. It is thought to target the biceps and lats a bit more directly than overhand barbell rows. Because it can be loaded heavily, it is a popular movement in strength and muscle-focused upper-body workouts.",
-            "Type": "Strength",
-            "BodyPart": "Middle Back",
-            "Equipment": "Barbell",
-            "Level": "Intermediate",
-            "Rating": 9.2,
+            "Rating": 8.6,
             "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 513,
-            "Title": "Holman Seated Killer Abs",
-            "Desc": NaN,
+            "Unnamed: 0": 416,
+            "Title": "30 Hanging Oblique Crunch",
+            "Desc": "The hanging oblique crunch an abdominal exercise that targets both the rectus abdominus or \u201csix-pack\u201d muscles, and the oblique muscles. It can be performed hanging from a bar, or if grip strength is a limitation, by placing the elbows in ab straps. If hanging from a straight bar is uncomfortable to the wrists or shoulder, you can also perform them hanging with a neutral grip (palms facing one another)",
             "Type": "Strength",
             "BodyPart": "Abdominals",
             "Equipment": "Body Only",
@@ -1807,30 +1807,19 @@
         "description": "Push Day (Chest, Shoulders, Triceps)",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 1014,
-            "Title": "Holman Push-Up to Sit Back",
-            "Desc": NaN,
+            "Unnamed: 0": 960,
+            "Title": "Pushups",
+            "Desc": "The push-up is a popular bodyweight exercise that is commonly used in military and tactical physical fitness tests. It\u2019s a classic movement to build upper-body muscle and strength, emphasizing the chest, triceps, and shoulders, but also working the upper back and core.",
             "Type": "Strength",
             "BodyPart": "Chest",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 973,
-            "Title": "Sphinx push-up",
-            "Desc": "The sphinx push-up is a difficult variation of the push-up that ends with the forearms on the ground in front of the body, rather than with the chest on the ground. It puts more stress on the triceps than traditional push-ups. It can be performed for time or reps in any bodyweight workout or during any arms-focused portion of a workout.",
-            "Type": "Strength",
-            "BodyPart": "Chest",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 8.0,
+            "Rating": 9.2,
             "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 2907,
-            "Title": "30 Arms Triceps Dip",
+            "Unnamed: 0": 2908,
+            "Title": "30 Arms Close-Grip Push-Up",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Triceps",
@@ -1840,48 +1829,59 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2902,
-            "Title": "Holman Chair Triceps Dip",
-            "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Triceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2782,
-            "Title": "JM Press With Bands",
-            "Desc": NaN,
+            "Unnamed: 0": 2777,
+            "Title": "Reverse-grip bench press",
+            "Desc": "The reverse-grip bench press is a popular barbell exercise targeting the chest, triceps, and forearms. The main difference between this exercise and the standard bench press is that the grip is underhand, not overhand. This helps target both the upper chest and the triceps. This lift can feel awkward at first, so go light and don't be afraid to use a spotter.",
             "Type": "Strength",
             "BodyPart": "Triceps",
             "Equipment": "Barbell",
-            "Level": "Beginner",
-            "Rating": 0.0,
-            "RatingDesc": NaN
+            "Level": "Intermediate",
+            "Rating": 8.3,
+            "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 1080,
-            "Title": "Standing Cable Chest Press",
-            "Desc": NaN,
+            "Unnamed: 0": 2458,
+            "Title": "Lying rear delt fly",
+            "Desc": "The lying rear delt fly is an upper-body exercise that targets the rear deltoid of the shoulder. By performing the movement lying face down on a bench, it eliminates momentum from the rest of the body. This movement is usually performed for moderate to high reps, such as 8-12 reps per set or more, as part of the upper-body or shoulder-focused portion of a workout.",
             "Type": "Strength",
-            "BodyPart": "Chest",
-            "Equipment": "Cable",
-            "Level": "Beginner",
+            "BodyPart": "Shoulders",
+            "Equipment": "Barbell",
+            "Level": "Intermediate",
             "Rating": 8.2,
             "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 1089,
-            "Title": "UP Cable Cross-Over",
-            "Desc": "The cable cross-over is an isolation movement that uses a cable stack to build bigger and stronger pectoral muscles. Since it's done using adjustable pulleys, you can target different parts of your chest by setting the pulleys at different levels. It is common in upper body and chest-focused muscle-building workouts, often as a pre-exhaust at the beginning of a workout, or a finishing movement at the end. It is often in combination with other presses or flyes to target the chest from different angles.",
+            "Unnamed: 0": 2874,
+            "Title": "Triceps Pressdown",
+            "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Chest",
+            "BodyPart": "Triceps",
             "Equipment": "Cable",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 926,
+            "Title": "Band chest fly",
+            "Desc": "Similar to the cable chest fly, the band chest fly is a single-joint movement that works the pectoral muscles. The fly is common in upper-body and chest-focused muscle-building workouts, and the band variation works well as a pre-exhaust at the beginning of a workout or a finishing movement at the end. It is often used in combination with other presses or flyes to target the chest from different angles.",
+            "Type": "Strength",
+            "BodyPart": "Chest",
+            "Equipment": "Bands",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2683,
+            "Title": "Cable Internal Rotation",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Shoulders",
+            "Equipment": "Cable",
+            "Level": "Beginner",
+            "Rating": 8.6,
+            "RatingDesc": "Average"
           }
         ],
         "reasoning": [
@@ -1894,12 +1894,23 @@
         "description": "Pull Day (Back, Biceps)",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 855,
-            "Title": "UN Pull-Up Supinated",
-            "Desc": NaN,
+            "Unnamed: 0": 824,
+            "Title": "Cable EZ-Bar Preacher Curl - Gethin Variation",
+            "Desc": "The cable preacher curl is a single-joint arm exercise that builds strength and size in the biceps using a cable stack and a preacher bench. It is popular in muscle-building arm workouts because the angle of the bench effectively removes the shoulders from the movement, largely isolating the biceps. It is generally performed for higher reps, at least 8-15 per set.",
             "Type": "Strength",
             "BodyPart": "Biceps",
-            "Equipment": "Body Only",
+            "Equipment": "Cable",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 833,
+            "Title": "Lying Close-Grip Bar Curl On High Pulley - Gethin Variation",
+            "Desc": "The lying high-cable biceps curl is an unusual move for building the biceps\u2014but it\u2019s a highly effective one. Lying prone and curling down toward you provides a different stimulus than more standard approaches allow.",
+            "Type": "Strength",
+            "BodyPart": "Biceps",
+            "Equipment": "Cable",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
@@ -1916,34 +1927,23 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 702,
-            "Title": "Banded Hammer Press - Gethin Variation",
-            "Desc": "The machine chest press is an upper body exercise targeting the pectoral muscles.",
+            "Unnamed: 0": 723,
+            "Title": "Standing band biceps curl",
+            "Desc": "The standing band biceps curl is an arm-focused exercise using a band for resistance. This variation is usually performed for moderate to high reps as part of an arms-focused or upper-body workout.",
             "Type": "Strength",
             "BodyPart": "Biceps",
-            "Equipment": "Bands",
+            "Equipment": "Barbell",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 822,
-            "Title": "Cable rope preacher hammer curl",
-            "Desc": "The cable rope preacher hammer curl is a single-joint arm exercise that builds strength and size in the biceps using a cable stack, a preacher bench, and a rope grip. The neutral or \"hammer\" grip amplifies activation of both the grip and the brachialis muscles, building arm thickness. The angle of the bench also effectively removes the shoulders from the movement, largely isolating the biceps. It is generally performed for higher reps, at least 8-15 per set.",
-            "Type": "Strength",
-            "BodyPart": "Biceps",
-            "Equipment": "Cable",
-            "Level": "Beginner",
-            "Rating": 7.5,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 857,
-            "Title": "UN Pull-Up Neutral",
+            "Unnamed: 0": 841,
+            "Title": "30 Arms High Cable Curl",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Biceps",
-            "Equipment": "Body Only",
+            "Equipment": "Cable",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
@@ -1960,12 +1960,12 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 727,
-            "Title": "EZ-bar preacher curl",
-            "Desc": "The EZ-bar preacher curl is a classic exercise for building bigger biceps. This move is all about isolation. With the back of the upper arms against the pad, it's next to impossible to use momentum which forces the muscles to work harder.",
+            "Unnamed: 0": 837,
+            "Title": "Single-arm cable biceps curl",
+            "Desc": "The single-arm cable biceps curl is a single-joint isolation exercise for building the biceps. This move is intended to be strict and deliberate; this is not an exercise for using momentum or otherwise cheating. It is usually performed for moderate to high reps, such as 8-12 reps or more per set, as part of an arm-focused workout.",
             "Type": "Strength",
             "BodyPart": "Biceps",
-            "Equipment": "Barbell",
+            "Equipment": "Cable",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
@@ -1981,8 +1981,19 @@
         "description": "Legs Day (Lower Body)",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2391,
-            "Title": "MetaBurn Alternating Diagonal Sprawl",
+            "Unnamed: 0": 1367,
+            "Title": "Natural Glute Ham Raise",
+            "Desc": "The glute ham raise is an exercise targeting the glutes and hamstrings on a GHD.",
+            "Type": "Strength",
+            "BodyPart": "Hamstrings",
+            "Equipment": "Body Only",
+            "Level": "Beginner",
+            "Rating": 9.1,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 2385,
+            "Title": "Muscle Beach Front Kick",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Quadriceps",
@@ -1992,8 +2003,8 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2262,
-            "Title": "HM Mountain Pose",
+            "Unnamed: 0": 2330,
+            "Title": "Holman Wide-to-Narrow Squat Jump",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Quadriceps",
@@ -2003,53 +2014,42 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 875,
-            "Title": "Smith machine standing calf raise",
-            "Desc": "The Smith machine standing calf raise is a machine-based exercise targeting the muscles of the calves, particularly the gastrocnemius or upper calf muscle. It is usually performed for moderate to high reps, such as 8-12 reps per set or more, as part of the lower-body portion of a workout.",
-            "Type": "Strength",
-            "BodyPart": "Calves",
-            "Equipment": "Barbell",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2344,
-            "Title": "Holman Burpee to Flying Jack",
+            "Unnamed: 0": 1273,
+            "Title": "Holman Right Leg Donkey Kick",
             "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Quadriceps",
+            "BodyPart": "Glutes",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2294,
-            "Title": "Holman 180 Jump to Lunge",
+            "Unnamed: 0": 1244,
+            "Title": "Walking High Knee",
             "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Quadriceps",
+            "BodyPart": "Glutes",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2303,
-            "Title": "Holman Lunge Jump",
+            "Unnamed: 0": 1230,
+            "Title": "UNS Cable Pull-Through",
             "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Quadriceps",
-            "Equipment": "Body Only",
+            "BodyPart": "Glutes",
+            "Equipment": "Cable",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2223,
-            "Title": "HM Alternating Lunge-In-Place",
-            "Desc": NaN,
+            "Unnamed: 0": 2209,
+            "Title": "FYR Gorilla Squat",
+            "Desc": "The gorilla squat is a bodyweight sequence that combines two reverse lunges and a bodyweight squat. It could also be performed with dumbbells, kettlebells, or other weights. It targets most of the muscles of the lower body, including the quads, glutes, and hamstrings. It can be performed for time or reps in the lower-body portion of any workout.",
             "Type": "Strength",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
@@ -2070,19 +2070,8 @@
         "description": "Abdominals Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 422,
-            "Title": "30 Shoulder Tap",
-            "Desc": "The shoulder tap is an exercise targeting the abdominals and core. The basic stance matches the top of a push-up position. From there, one hand is raised to tap its opposing shoulder. A tap with each hand to each opposing shoulder equals one rep.",
-            "Type": "Strength",
-            "BodyPart": "Abdominals",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 605,
-            "Title": "FYR2 Half-Moon",
+            "Unnamed: 0": 443,
+            "Title": "Holman Towel Dirty Dog",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Abdominals",
@@ -2092,42 +2081,53 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 484,
-            "Title": "Holman Shoulder Tap to Dirty Dog",
-            "Desc": NaN,
+            "Unnamed: 0": 211,
+            "Title": "Alternating heel-touch",
+            "Desc": "The alternating heel-touch is a popular bodyweight exercise that targets the obliques, as well as the rectus abdominis, or \"six-pack\" muscles. It can be performed for time or reps as part of any abs-focused circuit or workout.",
             "Type": "Strength",
             "BodyPart": "Abdominals",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 316,
-            "Title": "Cross-body mountain climber",
-            "Desc": "The cross-body mountain climber is a popular bodyweight exercise targeting the muscles of the core, as well as the shoulders, hips, and cardiovascular system. It is different from a traditional mountain climber because you bring the knee to the opposite side of the body rather than simply to the chest. It can be performed for time or reps as part of a dynamic warm-up, for bodyweight cardio or conditioning, or as no-equipment dynamic core training.",
-            "Type": "Strength",
-            "BodyPart": "Abdominals",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 231,
-            "Title": "Straight-Legged Hip Raise",
-            "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Abdominals",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 0.0,
+            "Rating": 8.0,
             "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 273,
-            "Title": "FYR Bear Crawl Shoulder Tap",
-            "Desc": "The bear crawl shoulder tap is a variation of the bear crawl that involves touching the opposing shoulder while in a static bear crawl hold. It adds an extra coordination and core challenge to an already intense full-body movement that targets the cardiovascular system as well as a wide range of muscle groups. It can be done as a full-body warm-up, or as part of a bodyweight circuit or flow.",
+            "Unnamed: 0": 461,
+            "Title": "Holman Straight Plank with Hand Tap",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Abdominals",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 218,
+            "Title": "Leg Pull-In",
+            "Desc": "The reverse crunch is a popular exercise targeting the abdominals, particularly the lower half. It\u2019s easy to perform on either the floor or a flat bench. Many lifters think of this as a companion to the crunch, which targets the upper abdominals more than the lower.",
+            "Type": "Strength",
+            "BodyPart": "Abdominals",
+            "Equipment": "Body Only",
+            "Level": "Beginner",
+            "Rating": 7.4,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 345,
+            "Title": "HM Bird-Dog Plank",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Abdominals",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 569,
+            "Title": "Total Fitness Hollow Hold",
+            "Desc": "The hollow-body hold is an isometric exercise that increases strength and stability in the core muscles. It is common in gymnastics training, CrossFit training, and as a core tension and bracing drill for lifters and athletes of all types. It is performed for time and can be performed as an activation drill prior to lifting, as part of a circuit, or as equipment-free core training anytime.",
             "Type": "Strength",
             "BodyPart": "Abdominals",
             "Equipment": "Body Only",
@@ -2146,37 +2146,26 @@
         "description": "Chest Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 1022,
-            "Title": "Holman Feet-Elevated Push-Up",
+            "Unnamed: 0": 985,
+            "Title": "Superman Push-Up",
             "Desc": NaN,
-            "Type": "Strength",
+            "Type": "Plyometrics",
             "BodyPart": "Chest",
             "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
+            "Level": "Beginner",
+            "Rating": 0.0,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 938,
-            "Title": "Barbell Guillotine Bench Press",
-            "Desc": NaN,
+            "Unnamed: 0": 1084,
+            "Title": "Incline Cable Fly - Gethin Variation",
+            "Desc": "The incline cable chest fly is an isolation movement that uses a cable stack and an incline bench to target the upper portion of the pectoral muscles. It is common in upper-body and chest-focused muscle-building workouts, often after pressing movements like the barbell or dumbbell bench press or as a finishing movement at the end of the workout. It is often used in combination with other flyes to target the chest from different angles.",
             "Type": "Strength",
             "BodyPart": "Chest",
-            "Equipment": "Barbell",
-            "Level": "Beginner",
-            "Rating": 6.7,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 915,
-            "Title": "Cross Over - With Bands",
-            "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Chest",
-            "Equipment": "Bands",
-            "Level": "Beginner",
-            "Rating": 8.3,
-            "RatingDesc": "Average"
+            "Equipment": "Cable",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
           },
           {
             "Unnamed: 0": 1021,
@@ -2190,26 +2179,37 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 987,
-            "Title": "One-Arm Push-Up",
+            "Unnamed: 0": 929,
+            "Title": "Decline barbell bench press",
+            "Desc": "The decline barbell bench press is a popular upper-body exercise targeting the lower pectoral muscles. While it can be a strength-focused movement, it is usually performed for moderate to high reps, such as 8-12 reps per set or more, as part of upper-body or chest-focused training.",
+            "Type": "Strength",
+            "BodyPart": "Chest",
+            "Equipment": "Barbell",
+            "Level": "Intermediate",
+            "Rating": 8.9,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 1036,
+            "Title": "MetaBurn Push-Up To Frogger",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Chest",
             "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 0.0,
+            "Level": "Intermediate",
+            "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 984,
-            "Title": "Judo push-up",
-            "Desc": "The judo push-up is an advanced push-up variation that blends elements of the yoga poses downward- and upward-facing dog. This movement increases the demands on the shoulders, but also has mobility benefits. It can work in a dynamic warm-up or mobility-focused workout, but also in bodyweight strength training.",
+            "Unnamed: 0": 967,
+            "Title": "Push-Ups With Feet On An Exercise Ball",
+            "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Chest",
             "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 0.0,
-            "RatingDesc": NaN
+            "Level": "Intermediate",
+            "Rating": 8.5,
+            "RatingDesc": "Average"
           }
         ],
         "reasoning": [
@@ -2222,9 +2222,31 @@
         "description": "Shoulders Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2738,
-            "Title": "Shadow boxing",
-            "Desc": "Shadow boxing is an exercise typically used in combat sports and fighting. However, it can also make a great cardio session for anyone to implement in a fast-paced circuit or as active rest. It is usually performed for time or rounds.",
+            "Unnamed: 0": 2685,
+            "Title": "Single-arm bent-over cable rear delt fly",
+            "Desc": "The single-arm bent-over cable rear delt fly is an exercise targeting the rear deltoids. It is a great way to isolate this area of the shoulder and attack each side independently. It is usually performed for moderate to high reps, at least 8-12 reps per set, as part of an upper-body or shoulder-focused workout.",
+            "Type": "Strength",
+            "BodyPart": "Shoulders",
+            "Equipment": "Cable",
+            "Level": "Intermediate",
+            "Rating": 8.5,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 2746,
+            "Title": "Shoulder T",
+            "Desc": "The bent-over plate rear delt raise is an exercise targeting the rear heads of the shoulders, aka deltoids. You can also use dumbbells or other light weights for a similar effect. This movement is usually performed as part of a dynamic warm-up, or as a high-rep burnout movement on a shoulder or back day.",
+            "Type": "Stretching",
+            "BodyPart": "Shoulders",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2739,
+            "Title": "Bear crawl fire feet",
+            "Desc": "Bear crawl fire feet is a variation of the bear crawl that involves running in place while in a static bear crawl hold. It adds an extra coordination and full-body challenge to an already intense full-body movement that targets the cardiovascular system as well as a wide range of muscle groups. It can be done as a full-body warm-up, or as part of a bodyweight circuit or flow.",
             "Type": "Cardio",
             "BodyPart": "Shoulders",
             "Equipment": "Body Only",
@@ -2233,59 +2255,37 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2734,
-            "Title": "Wall walk",
-            "Desc": "The wall walk is a challenging exercise that works the entire body. From a push-up position, the hands walk back as the feet walk up the wall, then the whole movement is reversed. This is not for beginners, who will need to progress to this exercise.",
+            "Unnamed: 0": 2696,
+            "Title": "Cable Rear Delt Fly - Gethin Variation",
+            "Desc": "The standing crossed-cable rear delt fly is an isolation exercise for the rear deltoids. It is usually performed for moderate to high reps, at least 8-12 reps per set, as part of an upper-body or shoulder-focused workout.",
+            "Type": "Strength",
+            "BodyPart": "Shoulders",
+            "Equipment": "Cable",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2711,
+            "Title": "30 Shoulders Single-Arm Leaning Cable Lateral Raise",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Shoulders",
+            "Equipment": "Cable",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2752,
+            "Title": "HM Jumping Arm Circle",
+            "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Shoulders",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": 0.0,
+            "Rating": NaN,
             "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2466,
-            "Title": "Smith Incline Shoulder Raise",
-            "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Shoulders",
-            "Equipment": "Barbell",
-            "Level": "Beginner",
-            "Rating": 0.0,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2427,
-            "Title": "Internal Rotation with Band",
-            "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Shoulders",
-            "Equipment": "Bands",
-            "Level": "Beginner",
-            "Rating": 8.3,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2448,
-            "Title": "Clean and press",
-            "Desc": "The clean and press is a full-body lift comprised of two movements: the clean, where the bar is pulled from the floor and caught in the front rack position in three pulls or phases, followed by the overhead press. Decades ago, it was contested in the Olympics. Today, it remains a worthy centerpiece of a power and strength training program, and has full-body benefits when done for low reps as well as moderate to high reps.",
-            "Type": "Strength",
-            "BodyPart": "Shoulders",
-            "Equipment": "Barbell",
-            "Level": "Intermediate",
-            "Rating": 9.4,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2451,
-            "Title": "Seated barbell shoulder press",
-            "Desc": "The seated barbell shoulder press is a classic exercise for building muscle and strength in the shoulders. The triceps also play a significant role in pressing the barbell overhead. Performing the movement seated reduces help from the lower body and decreases the risk of overextending the lumbar spine during the movement. This press variation can be the primary pressing movement on an upper-body or shoulder day, or an effective accessory movement later in a workout.",
-            "Type": "Strength",
-            "BodyPart": "Shoulders",
-            "Equipment": "Barbell",
-            "Level": "Intermediate",
-            "Rating": 9.2,
-            "RatingDesc": "Average"
           }
         ],
         "reasoning": [
@@ -2298,37 +2298,26 @@
         "description": "Arms Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2900,
-            "Title": "Bench dip",
-            "Desc": "The bench dip is a highly effective exercise for building the triceps. The resistance comes from the body itself, rather than added weight.",
-            "Type": "Strength",
-            "BodyPart": "Triceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 706,
-            "Title": "EZ-bar spider curl",
-            "Desc": "The EZ-bar spider curl is an exercise targeting the biceps and performed face down on either an incline bench or on the flat side of a preacher bench. The EZ-bar makes for a more comfortable wrist position, while the angle helps to isolate the biceps and limit involvement of the shoulder muscles. This curl variation is usually performed for moderate to high reps, such as 8-12 reps per set or more, as part of upper-body or arm-focused training.",
+            "Unnamed: 0": 728,
+            "Title": "30 Arms Standing Barbell Curl",
+            "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Biceps",
             "Equipment": "Barbell",
             "Level": "Intermediate",
-            "Rating": 9.2,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2873,
-            "Title": "BFR cable rope push-down",
-            "Desc": "The blood flow restriction (BFR) cable rope push-down is an arm movement that builds triceps size and strength using a cable stack, rope grip, and blood flow restriction bands. It is popular in high-rep \"pump\"-style arm workouts. The bands should be placed as high as possible on your arms, at a tightness of no greater than 8 on a scale of 10. Most BFR workouts recommend using a far lighter weight than usual, perhaps as low as 25-50 percent of a normal working weight.",
-            "Type": "Strength",
-            "BodyPart": "Triceps",
-            "Equipment": "Cable",
-            "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 817,
+            "Title": "Standing One-Arm Cable Curl",
+            "Desc": "The single-arm cable biceps curl is a single-joint isolation exercise for building the biceps. This move is intended to be strict and deliberate; this is not an exercise for using momentum or otherwise cheating.",
+            "Type": "Strength",
+            "BodyPart": "Biceps",
+            "Equipment": "Cable",
+            "Level": "Beginner",
+            "Rating": 8.8,
+            "RatingDesc": "Average"
           },
           {
             "Unnamed: 0": 834,
@@ -2342,23 +2331,34 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2909,
-            "Title": "30 Arms BFR Close-Grip Push-Up",
-            "Desc": NaN,
+            "Unnamed: 0": 2837,
+            "Title": "Dip Machine",
+            "Desc": "The dip machine is a machine exercise that mimics a triceps dip, a bodyweight exercise performed on parallel bars or on a pull-up and dip station. It targets the triceps first, but also stretches and strengthens the chest and shoulders. Dips with a triceps focus are usually performed with an upright torso, the knees bent and crossed, and the arms close to the body. Dips can be performed for low reps for strength or higher reps for muscle growth.",
             "Type": "Strength",
             "BodyPart": "Triceps",
-            "Equipment": "Body Only",
+            "Equipment": "Cable",
+            "Level": "Intermediate",
+            "Rating": 8.8,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 2855,
+            "Title": "Triceps Overhead Extension with Rope - Gethin Variation",
+            "Desc": "The overhead triceps extension is an isolation exercise that is performed with a cable. It is usually performed for moderate to high reps as part of the arm-focused portion of a workout.",
+            "Type": "Strength",
+            "BodyPart": "Triceps",
+            "Equipment": "Cable",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 840,
-            "Title": "30 Arms Squatting Cable Straight-Bar Curl",
-            "Desc": NaN,
+            "Unnamed: 0": 2900,
+            "Title": "Bench dip",
+            "Desc": "The bench dip is a highly effective exercise for building the triceps. The resistance comes from the body itself, rather than added weight.",
             "Type": "Strength",
-            "BodyPart": "Biceps",
-            "Equipment": "Cable",
+            "BodyPart": "Triceps",
+            "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
@@ -2374,63 +2374,30 @@
         "description": "Legs Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2216,
-            "Title": "Bodyweight Squat - Gethin Variation",
-            "Desc": "The bodyweight squat is a fundamental exercise that strengthens the quads, glutes, and hamstrings. It can be performed as part of a dynamic warm-up, for time or reps during a workout, or for hip and spine mobility any time.",
-            "Type": "Strength",
-            "BodyPart": "Quadriceps",
-            "Equipment": "Body Only",
+            "Unnamed: 0": 870,
+            "Title": "Posterior Tibialis Stretch",
+            "Desc": NaN,
+            "Type": "Stretching",
+            "BodyPart": "Calves",
+            "Equipment": "Bands",
             "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
+            "Rating": 1.0,
+            "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 2317,
-            "Title": "Holman Left Leg Hop to Left Reverse Lunge",
-            "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Quadriceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 1840,
-            "Title": "Box Squat with Chains",
-            "Desc": NaN,
+            "Unnamed: 0": 1828,
+            "Title": "Barbell speed squat",
+            "Desc": "The barbell speed squat targets the lower-body muscle groups using lighter weights to perform fast-paced back squats. Speed squats are popular in certain powerlifting training methodologies as a way to engrain form and lifting speed that can carry over to max-effort lifts. In this approach, they are usually performed in numerous sets of 3-5 reps with adequate rest in between. Speed squats are also sometimes performed with bands or chains adding extra resistance to the top half of the lift.",
             "Type": "Strength",
             "BodyPart": "Quadriceps",
             "Equipment": "Barbell",
-            "Level": "Beginner",
-            "Rating": 0.0,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2121,
-            "Title": "Bodyweight squat",
-            "Desc": "The bodyweight squat is a fundamental exercise that strengthens the quads, glutes, and hamstrings. It can be performed as part of a dynamic warm-up, for time or reps during a workout, or for hip and spine mobility any time.",
-            "Type": "Strength",
-            "BodyPart": "Quadriceps",
-            "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": 8.8,
+            "Rating": 7.7,
             "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 1801,
-            "Title": "Push-press",
-            "Desc": "The push-press is an overhead press variation in which the barbell is pushed upward with assistance from the lower body. This \"push\" helps the weight travel through the sticking point of a strict press. The push-press is commonly performed as part of barbell complexes, power training for all types of athletics, or as a powerful shoulder exercise.",
-            "Type": "Olympic Weightlifting",
-            "BodyPart": "Quadriceps",
-            "Equipment": "Barbell",
-            "Level": "Intermediate",
-            "Rating": 9.3,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2279,
-            "Title": "Holman 180 Jump",
+            "Unnamed: 0": 2321,
+            "Title": "Holman Bear Crawl to Donkey Kick",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Quadriceps",
@@ -2438,6 +2405,39 @@
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 1299,
+            "Title": "Power clean",
+            "Desc": "The power clean is a full-body movement in which the bar is pulled from the floor and caught in the front rack position in three pulls or phases. The bar is received in the \"power\" position, with the hips higher than a full-depth squat position. The power clean can be used as a component of the clean and press or clean and jerk, but is also a valuable lift to build explosive power and strength.",
+            "Type": "Strength",
+            "BodyPart": "Hamstrings",
+            "Equipment": "Barbell",
+            "Level": "Intermediate",
+            "Rating": 8.7,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 1849,
+            "Title": "Paul Carter Back Squat",
+            "Desc": "The barbell back squat is a popular compound movement that emphasizes building the lower-body muscle groups and overall strength. It's the classic way to start a leg day, and is a worthy centerpiece to a lower-body training program. The squat is a competitive lift in the sport of powerlifting, but is also a classic measurement of lower-body strength. With the barbell racked on the traps or upper back, the emphasis is placed on the posterior chain but the entire body gets worked. The back squat can be trained in everything from heavy singles to sets of 20 reps or higher.",
+            "Type": "Strength",
+            "BodyPart": "Quadriceps",
+            "Equipment": "Barbell",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 1304,
+            "Title": "Barbell stiff-legged deadlift",
+            "Desc": "The barbell stiff-legged deadlift targets the hamstrings, glutes, lower and upper back, as well as the core. It is a popular accessory movement for the deadlift, but also a muscle-building hamstring movement.",
+            "Type": "Strength",
+            "BodyPart": "Hamstrings",
+            "Equipment": "Barbell",
+            "Level": "Intermediate",
+            "Rating": 8.3,
+            "RatingDesc": "Average"
           }
         ],
         "reasoning": [
@@ -2545,7 +2545,7 @@
         "pathway_description": "Alternating between moderate and higher intensities",
         "is_suitable": false,
         "reasoning": [
-          "Missing essential equipment: Exercise Ball, Dumbbell, Machine"
+          "Missing essential equipment: Dumbbell, Exercise Ball, Machine"
         ],
         "recommended_exercises": [
           {
@@ -2667,7 +2667,7 @@
         "pathway_description": "Variety of endurance activities to prevent overuse",
         "is_suitable": false,
         "reasoning": [
-          "Missing essential equipment: Foam Roll, E-Z Curl Bar, Barbell"
+          "Missing essential equipment: Barbell, Dumbbell, Cable"
         ],
         "recommended_exercises": [
           {
@@ -2795,42 +2795,42 @@
         ],
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2176,
-            "Title": "High knees",
-            "Desc": "High knees is a full-body, cardio-based exercise with an emphasis on the lower body. It is often performed for reps or time as part of a dynamic warm-up.",
+            "Unnamed: 0": 2167,
+            "Title": "Defensive Slide",
+            "Desc": NaN,
             "Type": "Cardio",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
-            "Level": "Intermediate",
+            "Level": "Beginner",
             "Rating": 0.0,
-            "RatingDesc": "Average"
+            "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2124,
-            "Title": "Trail Running/Walking",
+            "Unnamed: 0": 2134,
+            "Title": "Walking High Knees",
             "Desc": NaN,
             "Type": "Cardio",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": 8.7,
+            "Rating": 7.8,
             "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 2130,
-            "Title": "Treadmill walking",
-            "Desc": "Treadmill walking is a popular cardiovascular exercise performed on a machine that is available in most gyms. Performing this exercise on a treadmill allows you to adjust the speed of your walking and, depending on the machine, perform it on an adjustable incline. Many machines also have built-in heart rate monitors and timers to help you track your progress.",
+            "Unnamed: 0": 349,
+            "Title": "HM Running Man Crunch",
+            "Desc": NaN,
             "Type": "Cardio",
-            "BodyPart": "Quadriceps",
+            "BodyPart": "Abdominals",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": 8.2,
-            "RatingDesc": "Average"
+            "Rating": NaN,
+            "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 315,
-            "Title": "Butterfly crunch",
-            "Desc": "The butterfly crunch is a popular bodyweight exercise that targets the rectus abdominis, or \"six-pack\" muscles. It gets its name from the position of the elbows and knees, both of which are bent out like wings. It can be performed for time or reps as part of any abs-focused circuit or workout.",
+            "Unnamed: 0": 456,
+            "Title": "Holman Reverse Straight Plank with Alternating Heel Pull-In",
+            "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Abdominals",
             "Equipment": "Body Only",
@@ -2839,12 +2839,12 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 1047,
-            "Title": "Cross-over push-up",
-            "Desc": "The cross-over push-up is a variation of the push-up that adds a degree of difficulty by stepping over a small box or step between repetitions. It can be performed for time or for reps and creates a greater core stabilization challenge by forcing the core muscles to maintain the a neutral spine throughout the movement.",
+            "Unnamed: 0": 1911,
+            "Title": "FYR2 Reverse Lunge to Single-Leg Kettlebell Deadlift",
+            "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Chest",
-            "Equipment": "Body Only",
+            "BodyPart": "Quadriceps",
+            "Equipment": "Kettlebells",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
@@ -2862,30 +2862,30 @@
         ],
         "recommended_exercises": [
           {
-            "Unnamed: 0": 1262,
-            "Title": "HM Left Side Iron Cross",
+            "Unnamed: 0": 2297,
+            "Title": "Holman Hands-Elevated Alternating Lunge Jump",
             "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Glutes",
+            "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 226,
-            "Title": "Seated Scissor Kick",
+            "Unnamed: 0": 1788,
+            "Title": "HM Banded Squat Toe Tap",
             "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Abdominals",
-            "Equipment": "Body Only",
+            "BodyPart": "Quadriceps",
+            "Equipment": "Bands",
             "Level": "Intermediate",
-            "Rating": 0.0,
-            "RatingDesc": "Average"
+            "Rating": NaN,
+            "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 510,
-            "Title": "Holman Squat Thrust to Alternating Knee-In",
+            "Unnamed: 0": 501,
+            "Title": "Holman Squat Pulse to Plyometric Jump",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Abdominals",
@@ -2895,26 +2895,26 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 624,
-            "Title": "Medicine ball partner twist",
-            "Desc": "The medicine ball partner twist is a plyometrics exercise targeting the core muscles, particularly the obliques. You and a partner stand back to back and rotate in unison to pass a medicine ball back and forth on alternating sides.",
+            "Unnamed: 0": 991,
+            "Title": "Triple Clap Push-Up",
+            "Desc": NaN,
             "Type": "Plyometrics",
-            "BodyPart": "Abdominals",
-            "Equipment": "Medicine Ball",
-            "Level": "Intermediate",
+            "BodyPart": "Chest",
+            "Equipment": "Body Only",
+            "Level": "Beginner",
             "Rating": 0.0,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2154,
-            "Title": "Stride Jump Crossover",
+            "Unnamed: 0": 2174,
+            "Title": "Linear Depth Jump",
             "Desc": NaN,
             "Type": "Plyometrics",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": 0.0,
-            "RatingDesc": "Average"
+            "RatingDesc": NaN
           }
         ],
         "frequency": "3-4 days per week",
@@ -2929,37 +2929,37 @@
         ],
         "recommended_exercises": [
           {
-            "Unnamed: 0": 204,
-            "Title": "Stomach Vacuum",
+            "Unnamed: 0": 2143,
+            "Title": "All Fours Quad Stretch",
             "Desc": NaN,
             "Type": "Stretching",
-            "BodyPart": "Abdominals",
+            "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
             "Level": "Beginner",
-            "Rating": 8.5,
+            "Rating": 5.0,
             "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 1376,
-            "Title": "World's greatest stretch",
-            "Desc": "The world's greatest stretch is a popular movement that earned its name because it targets multiple parts of the body, including the hips, shoulders, and thoracic spine, in a single sequence. This makes it a great dynamic warm-up, post-workout stretch, or mobility work you can do anytime.",
-            "Type": "Stretching",
-            "BodyPart": "Hamstrings",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 4.4,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 1381,
-            "Title": "Hip Stretch With Twist",
+            "Unnamed: 0": 1242,
+            "Title": "Seated Glute Stretch",
             "Desc": NaN,
             "Type": "Stretching",
-            "BodyPart": "Hamstrings",
+            "BodyPart": "Glutes",
             "Equipment": "Body Only",
             "Level": "Beginner",
             "Rating": 0.0,
             "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 671,
+            "Title": "Standing Hip Circles",
+            "Desc": NaN,
+            "Type": "Stretching",
+            "BodyPart": "Abductors",
+            "Equipment": "Body Only",
+            "Level": "Beginner",
+            "Rating": 8.8,
+            "RatingDesc": "Average"
           },
           {
             "Unnamed: 0": 2123,
@@ -2973,15 +2973,15 @@
             "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 2235,
-            "Title": "HM Running Lunge",
-            "Desc": NaN,
+            "Unnamed: 0": 2176,
+            "Title": "High knees",
+            "Desc": "High knees is a full-body, cardio-based exercise with an emphasis on the lower body. It is often performed for reps or time as part of a dynamic warm-up.",
             "Type": "Cardio",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
+            "Rating": 0.0,
+            "RatingDesc": "Average"
           }
         ],
         "frequency": "2-3 days per week",
@@ -3388,31 +3388,31 @@
         "description": "Efficient Full-Body Circuit",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 677,
-            "Title": "Monster Walk",
+            "Unnamed: 0": 1013,
+            "Title": "Holman Froggy Push-Up to Donkey Kick",
             "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Abductors",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 6.7,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2906,
-            "Title": "FYR2 Triceps Push-Up",
-            "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Triceps",
+            "BodyPart": "Chest",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2403,
-            "Title": "Lunge high-knee clap",
-            "Desc": "The lunge high-knee clap is a full-body, cardio-based exercise with emphasis on the lower body. It includes a clap under the front leg to make the movement more powerful and strict. It can be performed either for time or reps and is a great inclusion in a fat-loss or athleticism-focused circuit workout.",
+            "Unnamed: 0": 593,
+            "Title": "MetaBurn Sit-Up With Rotation",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Abdominals",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2276,
+            "Title": "Holman Towel Alternating Prisoner Squat",
+            "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
@@ -3421,19 +3421,19 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 234,
-            "Title": "Partner lying leg raise with lateral throw down",
-            "Desc": "The partner lying leg raise with lateral throw down is a core exercise in which one partner performs a leg raise while the other partner pushes their legs back down at a lateral angle. The partner performing the exercise has to use core strength and stability to keep their legs from falling to the ground.",
+            "Unnamed: 0": 1264,
+            "Title": "HM Leg Lifts",
+            "Desc": NaN,
             "Type": "Strength",
-            "BodyPart": "Abdominals",
+            "BodyPart": "Glutes",
             "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 0.0,
+            "Level": "Intermediate",
+            "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 476,
-            "Title": "Holman Feet-Elevated Plank Pike Pull to Push-Up",
+            "Unnamed: 0": 461,
+            "Title": "Holman Straight Plank with Hand Tap",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Abdominals",
@@ -3443,31 +3443,31 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2754,
-            "Title": "Holman Kneeling Overhead Press to Donkey Kick",
-            "Desc": NaN,
+            "Unnamed: 0": 2188,
+            "Title": "Seal jack",
+            "Desc": "The seal jack is a variation on the jumping jack, one the most common calisthenic exercises on the planet. The difference between this movement and the jumping jack has to do with the arm motion. Instead of the arms coming together overhead, they come together in front of the body, like a seal clapping its fins.",
             "Type": "Strength",
-            "BodyPart": "Shoulders",
+            "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 982,
-            "Title": "Typewriter push-up",
-            "Desc": "The typewriter push-up is an advanced push-up variation where the hands are extra wide and you lower toward each hand in alternating reps. It is more challenging to each working arm than traditional push-ups and also stretches and challenges the chest.",
+            "Unnamed: 0": 418,
+            "Title": "Parallel bars knee raise",
+            "Desc": "The parallel bars knee raise is a bodyweight exercise that targets the abs. It is performed on parallel bars, starting in the top position of a dip. Knee raises are often performed for moderate to high reps, such as 8-12 reps or more, as part of ab-focused training.",
             "Type": "Strength",
-            "BodyPart": "Chest",
+            "BodyPart": "Abdominals",
             "Equipment": "Body Only",
-            "Level": "Beginner",
-            "Rating": 0.0,
+            "Level": "Intermediate",
+            "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 383,
-            "Title": "HM Plank",
-            "Desc": NaN,
+            "Unnamed: 0": 305,
+            "Title": "Front kick-through",
+            "Desc": "The front kick-through is a full-body movement that involves moving the legs from a bear crawl position to a balanced one-legged stance. It is commonly performed for reps or time in bodyweight circuits and animal-style flows, but can also work on its own or as part of a dynamic warm-up or mobility sequence.",
             "Type": "Strength",
             "BodyPart": "Abdominals",
             "Equipment": "Body Only",
@@ -3488,19 +3488,19 @@
         "description": "Abdominals Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 421,
-            "Title": "Otis-up-",
-            "Desc": "The Otis-up is a weighted exercise focusing on the abdominal muscles and the shoulders to a lesser degree. It primarily targets the rectus abdominis or \"six-pack\" muscles, but also involves the obliques and deep core muscles. It is normally performed on a decline bench holding a weight plate, but can also be performed with a dumbbell, kettlebell, or other weight.",
+            "Unnamed: 0": 625,
+            "Title": "Partner side Russian twist and pass",
+            "Desc": "The partner side Russian twist and pass is a weighted version of a popular abdominal training exercise that also utilizes a training partner to add another dynamic component. It primarily targets the oblique muscles, as well as the deep muscles of the core and the rectus abdominis or \"six pack\" muscles. It can be done for reps or time in an ab-focused portion of any workout.",
             "Type": "Strength",
             "BodyPart": "Abdominals",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
+            "Equipment": "Medicine Ball",
+            "Level": "Beginner",
+            "Rating": 0.0,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 562,
-            "Title": "Holman Side Plank Crunch",
+            "Unnamed: 0": 618,
+            "Title": "Hanging Leg Raises",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Abdominals",
@@ -3510,9 +3510,9 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 276,
-            "Title": "Plank leg raise",
-            "Desc": "The plank leg raise is an isometric abdominal exercise that targets the muscles of the core, the deep core or transversus abdominis in particular. It also targets the muscles of the glutes and hips. It can be performed for time or reps in the ab-focused portion of any workout.",
+            "Unnamed: 0": 404,
+            "Title": "Ab wheel roll-out",
+            "Desc": "The ab wheel roll-out is an exercise targeting the abdominals using an inexpensive wheel device with a handle on either side. Many trainers and strength coaches claim it's one of the best exercises for developing strength in the midsection. Beginners may have to start with a limited range of motion or just wheel planks.",
             "Type": "Strength",
             "BodyPart": "Abdominals",
             "Equipment": "Body Only",
@@ -3521,8 +3521,19 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 456,
-            "Title": "Holman Reverse Straight Plank with Alternating Heel Pull-In",
+            "Unnamed: 0": 257,
+            "Title": "Flutter kick",
+            "Desc": "The flutter kick is a core exercise where the legs are held off the ground as you flutter your feet over and under each other in small motions. It targets multiple muscles of the core, but particularly the rectus abdominis or \"six-pack\" muscles. It can be performed for time or reps in the ab-focused portion of any workout.",
+            "Type": "Strength",
+            "BodyPart": "Abdominals",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 264,
+            "Title": "Plank Fire Hydrants",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Abdominals",
@@ -3532,20 +3543,9 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 598,
-            "Title": "MetaBurn-V-Up",
+            "Unnamed: 0": 589,
+            "Title": "MetaBurn Side Crawler",
             "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Abdominals",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 274,
-            "Title": "Alternating single-leg sprawl",
-            "Desc": "The alternating single-leg sprawl is an explosive bodyweight exercise that targets the core, upper body, and lower body. It differs from a standard sprawl by including a single-leg plank instead of a regular plank at the bottom. It can be performed for time or reps in any fat-loss or athleticism-focused circuit or workout.",
             "Type": "Strength",
             "BodyPart": "Abdominals",
             "Equipment": "Body Only",
@@ -3564,6 +3564,50 @@
         "description": "Chest Focused Workout",
         "recommended_exercises": [
           {
+            "Unnamed: 0": 963,
+            "Title": "Decline Push-Up",
+            "Desc": "The feet-elevated push-up is a variation on the push-up, a body-weight standard. The feet are elevated, so that your body is aligned at an angle to the floor rather than parallel.",
+            "Type": "Strength",
+            "BodyPart": "Chest",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": 8.6,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 1034,
+            "Title": "MetaBurn Judo Push-Up To Pike Push-Up",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Chest",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 986,
+            "Title": "Wide push-up",
+            "Desc": "The wide push-up is a variation of the push-up with the hands wider than shoulder-width apart. It targets upper-body muscle groups including the chest, shoulders, and triceps, but has more of a chest emphasis than narrower-grip push-up variations. If wide push-ups lead to pain in the front of your shoulder, opt for a narrower version.",
+            "Type": "Strength",
+            "BodyPart": "Chest",
+            "Equipment": "Body Only",
+            "Level": "Beginner",
+            "Rating": 0.0,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 990,
+            "Title": "Reverse-grip hands-elevated push-up",
+            "Desc": "The reverse-grip hands-elevated push-up is a bodyweight exercise performed on a Smith machine or other elevated surface. It targets the chest, triceps, and shoulders. It can work as a regression of floor reverse-grip push-ups, or in a progressive mechanical dropset moving the bar up once you reach failure at a lower height.",
+            "Type": "Strength",
+            "BodyPart": "Chest",
+            "Equipment": "Body Only",
+            "Level": "Beginner",
+            "Rating": 0.0,
+            "RatingDesc": "Average"
+          },
+          {
             "Unnamed: 0": 915,
             "Title": "Cross Over - With Bands",
             "Desc": NaN,
@@ -3575,59 +3619,15 @@
             "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 968,
-            "Title": "Feet-elevated push-up",
-            "Desc": "The feet-elevated push-up is a variation on the push-up, a bodyweight standard. The feet are elevated so that your body is aligned at an angle to the floor rather than parallel. This makes it more difficult than push-ups on the floor, but also puts more emphasis on the shoulder muscles. It is often used as a bodyweight substitute for incline presses, or as a burnout movement for a chest or shoulder workout.",
-            "Type": "Strength",
-            "BodyPart": "Chest",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 8.5,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 959,
-            "Title": "FYR2 Push-Up to Kettlebell Hike Combo",
-            "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Chest",
-            "Equipment": "Kettlebells",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 1017,
-            "Title": "Holman Foot-Up Diving Push-Up",
-            "Desc": NaN,
+            "Unnamed: 0": 1024,
+            "Title": "Scapular push-up",
+            "Desc": "The scapular push-up is an upper-body exercise aimed at increasing the stability of the scapulae and mobility in the shoulders. It is often performed as part of a dynamic warm-up before an upper-body workout, or as part of a mobility session.",
             "Type": "Strength",
             "BodyPart": "Chest",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 983,
-            "Title": "Diamond push-up",
-            "Desc": "The diamond push-up is an advanced variation of the push-up exercise performed with the hands in a diamond shape. It increases the challenge to the triceps, but also targets the chest and shoulders.",
-            "Type": "Strength",
-            "BodyPart": "Chest",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 0.0,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 967,
-            "Title": "Push-Ups With Feet On An Exercise Ball",
-            "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Chest",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 8.5,
-            "RatingDesc": "Average"
           }
         ],
         "reasoning": [
@@ -3640,9 +3640,31 @@
         "description": "Shoulders Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2445,
-            "Title": "Band front raise rear fly row combo",
-            "Desc": "The band front raise rear fly row combo is a combination of three different shoulder exercises to build and strengthen the anterior, middle deltoids, and posterior portions of the shoulders. It requires a continuous loop band to provide constant, dynamic tension throughout the movement. In addition to the front and rear delts, this exercise works the arms, chest, back, and core, making it a great time-efficient shoulder burnout or accessory movement on an upper-body day.",
+            "Unnamed: 0": 2520,
+            "Title": "FYR2 Kettlebell Clean and Press",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Shoulders",
+            "Equipment": "Kettlebells",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2501,
+            "Title": "One-Arm Kettlebell Para Press",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Shoulders",
+            "Equipment": "Kettlebells",
+            "Level": "Beginner",
+            "Rating": 0.0,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2441,
+            "Title": "Band lateral raise",
+            "Desc": "The band lateral raise is a shoulder exercise that targets the medial or middle head of the deltoid muscle. It's a variation of the dumbbell lateral raise, a staple strength-training move. The band lateral raise is a great option for warm-up or accessory work on upper-body training days. The dynamic tension of the band provides constant tension and matches the strength curve of the movement. It is usually performed for moderate to high reps, at least 8-12 reps, as part of the upper-body or shoulder-focused portion of a workout.",
             "Type": "Strength",
             "BodyPart": "Shoulders",
             "Equipment": "Bands",
@@ -3651,26 +3673,15 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2429,
-            "Title": "Back Flyes - With Bands",
+            "Unnamed: 0": 2434,
+            "Title": "HM Lateral Raise",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Shoulders",
             "Equipment": "Bands",
-            "Level": "Beginner",
-            "Rating": 8.1,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2726,
-            "Title": "Handstand push-up",
-            "Desc": "The handstand push-up is an exercise targeting the shoulders, although other muscles assist in the completion of the reps. It is common in both CrossFit workouts and advanced bodyweight or calisthenics training. Given the degree of difficulty, beginners will need to progress to this move.",
-            "Type": "Strength",
-            "BodyPart": "Shoulders",
-            "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": 8.7,
-            "RatingDesc": "Average"
+            "Rating": NaN,
+            "RatingDesc": NaN
           },
           {
             "Unnamed: 0": 2514,
@@ -3684,25 +3695,14 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2488,
-            "Title": "Single-arm kettlebell push-press",
-            "Desc": "The single-arm kettlebell push-press is a popular kettlebell movement that involves performing a press with help from the muscles of the lower body. It is preceded by a clean at the start of each set, and optionally you can perform a clean between each rep. It can be trained in traditional strength or muscle-building rep ranges, in circuit or fat-loss training, or as part of a larger kettlebell combination or complex.",
+            "Unnamed: 0": 2736,
+            "Title": "Wall shoulder tap",
+            "Desc": "The wall shoulder tap is a bodyweight shoulder exercise that is a popular movement for gymnasts, cheerleaders, and other athletes who need to spend a lot of time in dynamic handstand movements. Beginning in a handstand position with toes touching the wall, one hand is raised to touch the opposing shoulder. This continues in alternating fashion for the duration of the set.",
             "Type": "Strength",
             "BodyPart": "Shoulders",
-            "Equipment": "Kettlebells",
+            "Equipment": "Body Only",
             "Level": "Intermediate",
-            "Rating": 9.3,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2437,
-            "Title": "UP Band Pull-Apart",
-            "Desc": NaN,
-            "Type": "Strength",
-            "BodyPart": "Shoulders",
-            "Equipment": "Bands",
-            "Level": "Intermediate",
-            "Rating": NaN,
+            "Rating": 0.0,
             "RatingDesc": NaN
           }
         ],
@@ -3716,70 +3716,70 @@
         "description": "Arms Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 701,
-            "Title": "Banded biceps curl in squat position",
-            "Desc": "The banded biceps curl in squat position is an exercise targeting the biceps, although it also works the core and lower body.",
+            "Unnamed: 0": 2908,
+            "Title": "30 Arms Close-Grip Push-Up",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Triceps",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2891,
+            "Title": "Triceps Stretch",
+            "Desc": NaN,
+            "Type": "Stretching",
+            "BodyPart": "Triceps",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": 4.8,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 2903,
+            "Title": "Bodyweight Triceps Rope Press",
+            "Desc": NaN,
+            "Type": "Strength",
+            "BodyPart": "Triceps",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 2771,
+            "Title": "Single-arm band kick-back",
+            "Desc": "The single-arm band kick-back is an isolation exercise that targets the triceps. This is a common burnout move performed for moderate to high reps, such as 8-12 reps per set or more, as part of an upper-body or arm-focused workout.",
+            "Type": "Strength",
+            "BodyPart": "Triceps",
+            "Equipment": "Bands",
+            "Level": "Intermediate",
+            "Rating": NaN,
+            "RatingDesc": NaN
+          },
+          {
+            "Unnamed: 0": 855,
+            "Title": "UN Pull-Up Supinated",
+            "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Biceps",
-            "Equipment": "Bands",
+            "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": NaN,
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2770,
-            "Title": "Band skullcrusher",
-            "Desc": "The band skullcrusher is a variation of the popular bench exercise targeting the triceps muscles. It is usually performed for moderate to high reps as part of an upper-body or arm-focused workout.",
-            "Type": "Strength",
-            "BodyPart": "Triceps",
-            "Equipment": "Bands",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2767,
-            "Title": "Band overhead triceps press",
-            "Desc": "The band overhead triceps press is a dynamic arm exercise utilizing a looped exercise band. It could also be performed with an exercise band with handles. It targets the triceps muscles and can be performed for time or reps, either in traditional muscle-building rep ranges such as 12-15 reps per set, or higher rep ranges such as 30, 50, or more.",
-            "Type": "Strength",
-            "BodyPart": "Triceps",
-            "Equipment": "Bands",
-            "Level": "Intermediate",
-            "Rating": 0.0,
-            "RatingDesc": NaN
-          },
-          {
-            "Unnamed: 0": 2885,
-            "Title": "Parallel Bar Dip",
-            "Desc": "The triceps dip is a bodyweight exercise performed on parallel bars or on a pull-up and dip station. It targets the triceps first, but also stretches and strengthens the chest and shoulders. Dips with a triceps focus are usually performed with an upright torso, the knees bent and crossed, and the arms close to the body. Dips can be performed for low reps for strength or higher reps for muscle growth.",
+            "Unnamed: 0": 2886,
+            "Title": "Ring dip",
+            "Desc": "The ring dip is an upper-body strength exercise performed on gymnastic rings. It targets the muscles of the chest, triceps, and shoulders, but is also quite taxing to the core. It is generally considered to be more difficult than dips performed on parallel bars. It is common in gymnastics training and CrossFit workouts, but is also a simple way to make dips more challenging for any strength athlete.",
             "Type": "Strength",
             "BodyPart": "Triceps",
             "Equipment": "Body Only",
             "Level": "Intermediate",
             "Rating": 8.8,
             "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2882,
-            "Title": "Triceps dip",
-            "Desc": "The triceps dip is a bodyweight exercise performed on parallel bars or on a pull-up and dip station. It targets the triceps first, but also stretches and strengthens the chest and shoulders. Dips with a triceps focus are usually performed with an upright torso, the knees bent and crossed, and the arms close to the body. Dips can be performed for low reps for strength or higher reps for muscle growth.",
-            "Type": "Strength",
-            "BodyPart": "Triceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 9.4,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2897,
-            "Title": "Banded dip",
-            "Desc": "The banded dip is a bodyweight exercise targeting the chest, triceps, and shoulders. This variation utilizes an exercise band to help support the lifter in the bottom part of the movement. This makes pushing out of the hole easier, and may combat the shoulder pain that some lifters feel when they perform dips. The top of the movement receives less help from the band, putting more stress on the triceps.",
-            "Type": "Strength",
-            "BodyPart": "Triceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
           }
         ],
         "reasoning": [
@@ -3792,25 +3792,14 @@
         "description": "Legs Focused Workout",
         "recommended_exercises": [
           {
-            "Unnamed: 0": 2133,
-            "Title": "Bodyweight Walking Lunge",
-            "Desc": "The walking lunge is a lower-body exercise that targets the glutes, quads, and hamstrings while challenging stability and balance. It can be performed for reps, time, or distance in the lower-body portion of any workout.",
-            "Type": "Strength",
+            "Unnamed: 0": 2169,
+            "Title": "Vertical Mountain Climber",
+            "Desc": NaN,
+            "Type": "Cardio",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": 8.0,
-            "RatingDesc": "Average"
-          },
-          {
-            "Unnamed: 0": 2378,
-            "Title": "Standing quad stretch",
-            "Desc": "The standing quad stretch is a simple exercise designed to stretch the quadriceps, the big muscles that cover most of the thighs. This is a static stretch, meaning it\u2019s usually performed by holding the stretched position for a certain length of time.",
-            "Type": "Strength",
-            "BodyPart": "Quadriceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
+            "Level": "Beginner",
+            "Rating": 0.0,
             "RatingDesc": NaN
           },
           {
@@ -3825,8 +3814,19 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2295,
-            "Title": "Holman Imaginary Jump Rope",
+            "Unnamed: 0": 2141,
+            "Title": "Kneeling hip flexor stretch",
+            "Desc": "The kneeling hip flexor stretch is a stretch targeting greater flexibility in the front side of the hips. It targets a chronically tight muscle group and is often performed as part of a dynamic warm-up, a cool-down, or as recovery work after training.",
+            "Type": "Stretching",
+            "BodyPart": "Quadriceps",
+            "Equipment": "Body Only",
+            "Level": "Intermediate",
+            "Rating": 5.4,
+            "RatingDesc": "Average"
+          },
+          {
+            "Unnamed: 0": 2240,
+            "Title": "HM Comet",
             "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Quadriceps",
@@ -3836,25 +3836,25 @@
             "RatingDesc": NaN
           },
           {
-            "Unnamed: 0": 2217,
-            "Title": "FYR Alternating Lunge",
-            "Desc": "The forward lunge is a lower-body bodyweight exercise targeting the quads, glutes, and hamstrings. It can also be performed holding dumbbells or other weights. The forward lunge places more emphasis on the quads than other lunge variations. It can be performed for time or reps in the lower-body portion of any workout.",
+            "Unnamed: 0": 1875,
+            "Title": "Kettlebell Curtsy Lunge",
+            "Desc": NaN,
             "Type": "Strength",
             "BodyPart": "Quadriceps",
-            "Equipment": "Body Only",
-            "Level": "Intermediate",
-            "Rating": NaN,
-            "RatingDesc": NaN
+            "Equipment": "Kettlebells",
+            "Level": "Beginner",
+            "Rating": 7.7,
+            "RatingDesc": "Average"
           },
           {
-            "Unnamed: 0": 2192,
-            "Title": "Squat Isometric Hold",
-            "Desc": "The hack squat is a machine-based exercise that targets the muscles of the legs, particularly the quadriceps. It is often used as an accessory for squats, but can also be the main lower-body movement in a workout. It is often performed for moderate to high reps, such as 8-12 reps per set or more.",
+            "Unnamed: 0": 2180,
+            "Title": "In-out jump squat",
+            "Desc": "The in-out jump squat is a bodyweight squat variation that alternates wide and narrow jump squats. It targets the lower-body muscles, including the quads, glutes, adductors, and hamstrings, and also provides a serious cardiovascular challenge. It can be performed for time or reps and is especially effective in a fat-loss or athleticism-focused circuit or workout.",
             "Type": "Plyometrics",
             "BodyPart": "Quadriceps",
             "Equipment": "Body Only",
-            "Level": "Expert",
-            "Rating": NaN,
+            "Level": "Intermediate",
+            "Rating": 0.0,
             "RatingDesc": NaN
           }
         ],

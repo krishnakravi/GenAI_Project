@@ -1,40 +1,16 @@
 {
   "body_part_clusters": {
-    "Forearms": [
-      "Standing alternating band speed row",
-      "Band roundhouse elbow",
-      "Palms-down wrist curl over bench",
-      "Palms-up wrist curl over bench",
-      "Standing behind-the-back wrist curl",
-      "Seated finger curl",
-      "Seated palms-up wrist curl",
-      "Bottoms-Up Clean From The Hang Position",
-      "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
-      "Palms-Up Dumbbell Wrist Curl Over A Bench"
-    ],
-    "Abdominals": [
-      "Partner plank band row",
-      "Banded crunch isometric hold",
-      "FYR Banded Plank Jack",
-      "Banded crunch",
-      "Crunch",
-      "Decline band press sit-up",
-      "FYR2 Banded Frog Pump",
-      "Band low-to-high twist",
-      "Barbell roll-out",
-      "Barbell Ab Rollout - On Knees"
-    ],
-    "Quadriceps": [
-      "Single-leg depth squat",
-      "Squats - With Bands",
-      "Hip Flexion with Band",
-      "Forward Band Walk",
-      "Boss Everline Resistance-Band Pull Sprint",
-      "Banded jump squat",
-      "Speed Box Squat",
-      "HM Banded Squat Toe Tap",
-      "UP Band Abducted Squat",
-      "FYR2 Lateral Band Walk"
+    "Triceps": [
+      "Band overhead triceps press",
+      "Band overhead triceps extension",
+      "Band straight-arm pull-down",
+      "Band skullcrusher",
+      "Single-arm band kick-back",
+      "Incline EZ-bar skullcrusher",
+      "Decline Close-Grip Bench To Skull Crusher",
+      "Bench Press - Powerlifting",
+      "Behind-the-head skullcrusher",
+      "Standing barbell overhead triceps extension"
     ],
     "Chest": [
       "Cross Over - With Bands",
@@ -47,102 +23,6 @@
       "UNS Banded Push-Up",
       "Taylor Band-Assisted One-Arm Push-Up",
       "Incline band bench press"
-    ],
-    "Adductors": [
-      "Band Hip Adductions",
-      "Adductor SMR",
-      "Lying Bent Leg Groin",
-      "Lateral box jump",
-      "Thigh adductor",
-      "Groiners",
-      "Side Leg Raises",
-      "Lateral hop",
-      "Side Lying Groin Stretch",
-      "Carioca quick step"
-    ],
-    "Lats": [
-      "Band-assisted pull-up",
-      "Assisted Chin-Up",
-      "UN Band Assisted Pull-up Pronated",
-      "UN Band Assisted Pull-up Neutral",
-      "UN Band Assisted Pull-up Supinated",
-      "FYR2 Monster Band Face-Pull Hold",
-      "Single-arm band low row",
-      "Latissimus dorsi SMR",
-      "Bent-arm barbell pull-over",
-      "Barbell pull-over to press"
-    ],
-    "Biceps": [
-      "Incline dumbbell biceps curl",
-      "Banded biceps curl in squat position",
-      "Banded Hammer Press - Gethin Variation",
-      "Band standing concentration curl",
-      "Brachialis SMR",
-      "Wide-grip barbell curl",
-      "EZ-bar spider curl",
-      "Barbell Curl",
-      "Close-grip EZ-bar curl",
-      "Preacher Curl"
-    ],
-    "Hamstrings": [
-      "Band Good Morning (Pull Through)",
-      "Standing Hamstring and Calf Stretch",
-      "Hamstring-SMR",
-      "Barbell Deadlift",
-      "Clean Deadlift",
-      "Sumo deadlift",
-      "Romanian Deadlift from Deficit",
-      "Power Snatch",
-      "Power Clean from Blocks",
-      "Snatch Deadlift"
-    ],
-    "Calves": [
-      "Calf Raises - With Bands",
-      "Peroneals Stretch",
-      "Posterior Tibialis Stretch",
-      "Calf SMR",
-      "Rocking Standing Calf Raise",
-      "Standing barbell calf raise",
-      "Barbell Seated Calf Raise",
-      "Smith machine standing calf raise",
-      "Calf Raise On A Dumbbell",
-      "Standing Dumbbell Calf Raise"
-    ],
-    "Glutes": [
-      "Hip Extension with Bands",
-      "Hip Lift with Band",
-      "HM Monster Walk",
-      "UNS Banded Glute Bridge",
-      "FYR2 Banded Glute Bridge",
-      "Piriformis SMR",
-      "Barbell glute bridge",
-      "Barbell Hip Thrust",
-      "Kneeling Squat",
-      "Kneeling Jump Squat"
-    ],
-    "Traps": [
-      "Upright Row - With Bands",
-      "Band seated row",
-      "Barbell shrug",
-      "Barbell behind-the-back shrug",
-      "Clean Shrug",
-      "Snatch Shrug",
-      "Single-arm inverted row",
-      "Kettlebell sumo deadlift high pull",
-      "Standing dumbbell shrug",
-      "Standing dumbbell upright row"
-    ],
-    "Middle Back": [
-      "Partner Facing Feet-Elevated Side Plank With Band Row",
-      "Partner side plank band row",
-      "Band-assisted chin-up",
-      "30 Back Band-Assisted Pull-Up",
-      "30 Back Reverse-Grip Band-Assisted Pull-Up",
-      "Band bent-over row",
-      "Heavy band bent-over row",
-      "Reverse-grip bent-over row",
-      "One-Arm Long Bar Row",
-      "Bent Over Barbell Row"
     ],
     "Lower Back": [
       "Band good morning-",
@@ -166,17 +46,17 @@
       "Side Neck Stretch",
       "Neck-SMR"
     ],
-    "Triceps": [
-      "Band overhead triceps press",
-      "Band overhead triceps extension",
-      "Band straight-arm pull-down",
-      "Band skullcrusher",
-      "Single-arm band kick-back",
-      "Incline EZ-bar skullcrusher",
-      "Decline Close-Grip Bench To Skull Crusher",
-      "Bench Press - Powerlifting",
-      "Behind-the-head skullcrusher",
-      "Standing barbell overhead triceps extension"
+    "Calves": [
+      "Calf Raises - With Bands",
+      "Peroneals Stretch",
+      "Posterior Tibialis Stretch",
+      "Calf SMR",
+      "Rocking Standing Calf Raise",
+      "Standing barbell calf raise",
+      "Barbell Seated Calf Raise",
+      "Smith machine standing calf raise",
+      "Calf Raise On A Dumbbell",
+      "Standing Dumbbell Calf Raise"
     ],
     "Abductors": [
       "Lateral Band Walk",
@@ -190,6 +70,114 @@
       "IT Band and Glute Stretch",
       "Single-leg lying cross-over stretch"
     ],
+    "Traps": [
+      "Upright Row - With Bands",
+      "Band seated row",
+      "Barbell shrug",
+      "Barbell behind-the-back shrug",
+      "Clean Shrug",
+      "Snatch Shrug",
+      "Single-arm inverted row",
+      "Kettlebell sumo deadlift high pull",
+      "Standing dumbbell shrug",
+      "Standing dumbbell upright row"
+    ],
+    "Biceps": [
+      "Incline dumbbell biceps curl",
+      "Banded biceps curl in squat position",
+      "Banded Hammer Press - Gethin Variation",
+      "Band standing concentration curl",
+      "Brachialis SMR",
+      "Wide-grip barbell curl",
+      "EZ-bar spider curl",
+      "Barbell Curl",
+      "Close-grip EZ-bar curl",
+      "Preacher Curl"
+    ],
+    "Adductors": [
+      "Band Hip Adductions",
+      "Adductor SMR",
+      "Lying Bent Leg Groin",
+      "Lateral box jump",
+      "Thigh adductor",
+      "Groiners",
+      "Side Leg Raises",
+      "Lateral hop",
+      "Side Lying Groin Stretch",
+      "Carioca quick step"
+    ],
+    "Glutes": [
+      "Hip Extension with Bands",
+      "Hip Lift with Band",
+      "HM Monster Walk",
+      "UNS Banded Glute Bridge",
+      "FYR2 Banded Glute Bridge",
+      "Piriformis SMR",
+      "Barbell glute bridge",
+      "Barbell Hip Thrust",
+      "Kneeling Squat",
+      "Kneeling Jump Squat"
+    ],
+    "Middle Back": [
+      "Partner Facing Feet-Elevated Side Plank With Band Row",
+      "Partner side plank band row",
+      "Band-assisted chin-up",
+      "30 Back Band-Assisted Pull-Up",
+      "30 Back Reverse-Grip Band-Assisted Pull-Up",
+      "Band bent-over row",
+      "Heavy band bent-over row",
+      "Reverse-grip bent-over row",
+      "One-Arm Long Bar Row",
+      "Bent Over Barbell Row"
+    ],
+    "Lats": [
+      "Band-assisted pull-up",
+      "Assisted Chin-Up",
+      "UN Band Assisted Pull-up Pronated",
+      "UN Band Assisted Pull-up Neutral",
+      "UN Band Assisted Pull-up Supinated",
+      "FYR2 Monster Band Face-Pull Hold",
+      "Single-arm band low row",
+      "Latissimus dorsi SMR",
+      "Bent-arm barbell pull-over",
+      "Barbell pull-over to press"
+    ],
+    "Abdominals": [
+      "Partner plank band row",
+      "Banded crunch isometric hold",
+      "FYR Banded Plank Jack",
+      "Banded crunch",
+      "Crunch",
+      "Decline band press sit-up",
+      "FYR2 Banded Frog Pump",
+      "Band low-to-high twist",
+      "Barbell roll-out",
+      "Barbell Ab Rollout - On Knees"
+    ],
+    "Forearms": [
+      "Standing alternating band speed row",
+      "Band roundhouse elbow",
+      "Palms-down wrist curl over bench",
+      "Palms-up wrist curl over bench",
+      "Standing behind-the-back wrist curl",
+      "Seated finger curl",
+      "Seated palms-up wrist curl",
+      "Bottoms-Up Clean From The Hang Position",
+      "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+      "Palms-Up Dumbbell Wrist Curl Over A Bench"
+    ],
+    "Quadriceps": [
+      "Single-leg depth squat",
+      "Squats - With Bands",
+      "Hip Flexion with Band",
+      "Forward Band Walk",
+      "Boss Everline Resistance-Band Pull Sprint",
+      "Banded jump squat",
+      "Speed Box Squat",
+      "HM Banded Squat Toe Tap",
+      "UP Band Abducted Squat",
+      "FYR2 Lateral Band Walk"
+    ],
     "Shoulders": [
       "Internal Rotation with Band",
       "Band Pull Apart",
@@ -201,33 +189,21 @@
       "HM Lateral Raise",
       "Rusin Banded Over-And-Back",
       "Rusin Banded Face Pull"
+    ],
+    "Hamstrings": [
+      "Band Good Morning (Pull Through)",
+      "Standing Hamstring and Calf Stretch",
+      "Hamstring-SMR",
+      "Barbell Deadlift",
+      "Clean Deadlift",
+      "Sumo deadlift",
+      "Romanian Deadlift from Deficit",
+      "Power Snatch",
+      "Power Clean from Blocks",
+      "Snatch Deadlift"
     ]
   },
   "equipment_clusters": {
-    "Machine": [
-      "Ab Crunch Machine",
-      "Smith machine straight-legged hip raise",
-      "Machine crunch",
-      "AM Ab Machine",
-      "Smith machine V-up",
-      "Thigh adductor",
-      "Thigh abductor",
-      "Machine Bicep Curl",
-      "Machine Preacher Curls",
-      "Single-arm machine preacher curl"
-    ],
-    "E-Z Curl Bar": [
-      "EZ-Bar Curl",
-      "Reverse Barbell Preacher Curls",
-      "Close-Grip EZ-Bar Curl with Band",
-      "Standing EZ-Bar Curl - Gethin Variation",
-      "TBS EZ-Bar Curl",
-      "Standing EZ-bar curl",
-      "30 Arms Standing Overhand EZ-Bar Curl",
-      "30 Arms EZ-Bar Spider Curl",
-      "30 Arms EZ-Bar Preacher Curl",
-      "30 Arms Standing EZ-Bar Curl"
-    ],
     "Foam Roll": [
       "Iliotibial band SMR",
       "Adductor SMR",
@@ -264,29 +240,17 @@
       "Band Hip Adductions",
       "Lateral Band Walk"
     ],
-    "Barbell": [
-      "Barbell roll-out",
-      "Barbell Ab Rollout - On Knees",
-      "Decline bar press sit-up",
-      "Bench barbell roll-out",
-      "Barbell Side Bend",
-      "Seated bar twist",
-      "Single-arm landmine pull and press",
-      "Barbell Ab Roll Out - Gethin Variation",
-      "30 Barbell Floor Wiper",
-      "30 Barbell Roll-Out"
-    ],
-    "Unknown": [
-      "Decline oblique crunch",
-      "Decline sit-up",
-      "Hanging Windshield Wiper",
-      "Groin and Back Stretch",
-      "Adductor/Groin",
-      "Ankle Circles",
-      "Calf Stretch Elbows Against Wall",
-      "Standing Soleus And Achilles Stretch",
-      "Kneeling Forearm Stretch",
-      "Glute ham raise-"
+    "Machine": [
+      "Ab Crunch Machine",
+      "Smith machine straight-legged hip raise",
+      "Machine crunch",
+      "AM Ab Machine",
+      "Smith machine V-up",
+      "Thigh adductor",
+      "Thigh abductor",
+      "Machine Bicep Curl",
+      "Machine Preacher Curls",
+      "Single-arm machine preacher curl"
     ],
     "Body Only": [
       "Elbow plank",
@@ -300,41 +264,17 @@
       "Hanging Oblique Knee Raise",
       "Gorilla Chin/Crunch"
     ],
-    "Other": [
-      "Landmine twist",
-      "Suspended ab fall-out",
-      "Decline reverse crunch",
-      "Plate Twist",
-      "Weighted Crunches",
-      "Ab Roller",
-      "Otis-Up",
-      "Captain's chair knee raise",
-      "Sledgehammer swing",
-      "Pallof press"
-    ],
-    "Kettlebells": [
-      "Advanced Kettlebell Windmill",
-      "Kettlebell Windmill",
-      "Kettlebell Pass Between The Legs",
-      "Kettlebell 3-point leg extension",
-      "Double Kettlebell Swing",
-      "Burpee over kettlebell",
-      "Kettlebell toe-touch",
-      "Kettlebell swing",
-      "Two-way swing",
-      "Kettlebell crab reach"
-    ],
-    "Dumbbell": [
-      "Dumbbell V-Sit Cross Jab",
-      "Dumbbell spell caster",
-      "Dumbbell side bend",
-      "Dumbbell crunch",
-      "Dumbbell Fix Dumbbell Sprawl",
-      "Dumbbell Fix Alternating Renegade Row",
-      "Dumbbell Fix Dumbbell Mountain Climber",
-      "Dumbbell Fix Dumbbell Russian Twist",
-      "Dumbbell Fix Dumbbell Pull-Over",
-      "Dumbbell Fix Dumbbell Sit-Up"
+    "Barbell": [
+      "Barbell roll-out",
+      "Barbell Ab Rollout - On Knees",
+      "Decline bar press sit-up",
+      "Bench barbell roll-out",
+      "Barbell Side Bend",
+      "Seated bar twist",
+      "Single-arm landmine pull and press",
+      "Barbell Ab Roll Out - Gethin Variation",
+      "30 Barbell Floor Wiper",
+      "30 Barbell Roll-Out"
     ],
     "Cable": [
       "Standing cable low-to-high twist",
@@ -348,6 +288,18 @@
       "Cable reverse crunch",
       "Cable Russian Twists"
     ],
+    "Other": [
+      "Landmine twist",
+      "Suspended ab fall-out",
+      "Decline reverse crunch",
+      "Plate Twist",
+      "Weighted Crunches",
+      "Ab Roller",
+      "Otis-Up",
+      "Captain's chair knee raise",
+      "Sledgehammer swing",
+      "Pallof press"
+    ],
     "Exercise Ball": [
       "Exercise Ball Pull-In",
       "Exercise ball crunch",
@@ -359,1293 +311,972 @@
       "Exercise ball pike",
       "Exercise ball bird dog",
       "Exercise ball superman"
+    ],
+    "Unknown": [
+      "Decline oblique crunch",
+      "Decline sit-up",
+      "Hanging Windshield Wiper",
+      "Groin and Back Stretch",
+      "Adductor/Groin",
+      "Ankle Circles",
+      "Calf Stretch Elbows Against Wall",
+      "Standing Soleus And Achilles Stretch",
+      "Kneeling Forearm Stretch",
+      "Glute ham raise-"
+    ],
+    "Dumbbell": [
+      "Dumbbell V-Sit Cross Jab",
+      "Dumbbell spell caster",
+      "Dumbbell side bend",
+      "Dumbbell crunch",
+      "Dumbbell Fix Dumbbell Sprawl",
+      "Dumbbell Fix Alternating Renegade Row",
+      "Dumbbell Fix Dumbbell Mountain Climber",
+      "Dumbbell Fix Dumbbell Russian Twist",
+      "Dumbbell Fix Dumbbell Pull-Over",
+      "Dumbbell Fix Dumbbell Sit-Up"
+    ],
+    "Kettlebells": [
+      "Advanced Kettlebell Windmill",
+      "Kettlebell Windmill",
+      "Kettlebell Pass Between The Legs",
+      "Kettlebell 3-point leg extension",
+      "Double Kettlebell Swing",
+      "Burpee over kettlebell",
+      "Kettlebell toe-touch",
+      "Kettlebell swing",
+      "Two-way swing",
+      "Kettlebell crab reach"
+    ],
+    "E-Z Curl Bar": [
+      "EZ-Bar Curl",
+      "Reverse Barbell Preacher Curls",
+      "Close-Grip EZ-Bar Curl with Band",
+      "Standing EZ-Bar Curl - Gethin Variation",
+      "TBS EZ-Bar Curl",
+      "Standing EZ-bar curl",
+      "30 Arms Standing Overhand EZ-Bar Curl",
+      "30 Arms EZ-Bar Spider Curl",
+      "30 Arms EZ-Bar Preacher Curl",
+      "30 Arms Standing EZ-Bar Curl"
     ]
   },
   "substitution_options": {
     "Bands": {
       "Foam Roll": {
         "from_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ],
         "to_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
+          "Hamstring-SMR"
         ]
       },
       "Barbell": {
         "from_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ],
         "to_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ]
       },
       "Kettlebells": {
         "from_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ],
         "to_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ]
       },
       "Dumbbell": {
         "from_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ],
         "to_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ]
       },
       "Other": {
         "from_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ],
         "to_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ]
       },
       "Cable": {
         "from_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ],
         "to_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ]
       },
       "Machine": {
         "from_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ],
         "to_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ]
       },
       "Body Only": {
         "from_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ],
         "to_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ]
-      },
-      "Medicine Ball": {
-        "from_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
-        ],
-        "to_exercises": [
-          "Backward Medicine Ball Throw",
-          "Medicine ball scoop throw",
-          "Standing Two-Arm Overhead Throw"
-        ]
-      },
-      "E-Z Curl Bar": {
-        "from_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
-        ],
-        "to_exercises": [
-          "Incline face-down bar front raise",
-          "Incline anti-gravity shoulder press",
-          "30 Shoulders EZ-Bar Front Raise"
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
         ]
       },
       "Unknown": {
         "from_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ],
         "to_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
         ]
       },
       "Exercise Ball": {
         "from_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ],
         "to_exercises": [
-          "Bent-over shoulder rotation"
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
         ]
       }
     },
     "Barbell": {
       "Bands": {
         "from_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ],
         "to_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ]
       },
       "Foam Roll": {
         "from_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ],
         "to_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
+          "Hamstring-SMR"
         ]
       },
       "Kettlebells": {
         "from_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ],
         "to_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ]
       },
       "Dumbbell": {
         "from_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ],
         "to_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ]
       },
       "Other": {
         "from_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ],
         "to_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ]
       },
       "Cable": {
         "from_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ],
         "to_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ]
       },
       "Machine": {
         "from_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ],
         "to_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ]
       },
       "Body Only": {
         "from_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ],
         "to_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ]
-      },
-      "Medicine Ball": {
-        "from_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
-        ],
-        "to_exercises": [
-          "Backward Medicine Ball Throw",
-          "Medicine ball scoop throw",
-          "Standing Two-Arm Overhead Throw"
-        ]
-      },
-      "E-Z Curl Bar": {
-        "from_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
-        ],
-        "to_exercises": [
-          "Incline face-down bar front raise",
-          "Incline anti-gravity shoulder press",
-          "30 Shoulders EZ-Bar Front Raise"
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
         ]
       },
       "Unknown": {
         "from_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ],
         "to_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
         ]
       },
       "Exercise Ball": {
         "from_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ],
         "to_exercises": [
-          "Bent-over shoulder rotation"
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
         ]
       }
     },
     "Kettlebells": {
       "Bands": {
         "from_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ],
         "to_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ]
       },
       "Foam Roll": {
         "from_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ],
         "to_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
+          "Hamstring-SMR"
         ]
       },
       "Barbell": {
         "from_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ],
         "to_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ]
       },
       "Dumbbell": {
         "from_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ],
         "to_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ]
       },
       "Other": {
         "from_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ],
         "to_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ]
       },
       "Cable": {
         "from_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ],
         "to_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ]
       },
       "Machine": {
         "from_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ],
         "to_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ]
       },
       "Body Only": {
         "from_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ],
         "to_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ]
-      },
-      "Medicine Ball": {
-        "from_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
-        ],
-        "to_exercises": [
-          "Backward Medicine Ball Throw",
-          "Medicine ball scoop throw",
-          "Standing Two-Arm Overhead Throw"
-        ]
-      },
-      "E-Z Curl Bar": {
-        "from_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
-        ],
-        "to_exercises": [
-          "Incline face-down bar front raise",
-          "Incline anti-gravity shoulder press",
-          "30 Shoulders EZ-Bar Front Raise"
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
         ]
       },
       "Unknown": {
         "from_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ],
         "to_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
         ]
       },
       "Exercise Ball": {
         "from_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ],
         "to_exercises": [
-          "Bent-over shoulder rotation"
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
         ]
       }
     },
     "Dumbbell": {
       "Bands": {
         "from_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ],
         "to_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ]
       },
       "Foam Roll": {
         "from_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ],
         "to_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
+          "Hamstring-SMR"
         ]
       },
       "Barbell": {
         "from_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ],
         "to_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ]
       },
       "Kettlebells": {
         "from_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ],
         "to_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ]
       },
       "Other": {
         "from_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ],
         "to_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ]
       },
       "Cable": {
         "from_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ],
         "to_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ]
       },
       "Machine": {
         "from_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ],
         "to_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ]
       },
       "Body Only": {
         "from_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ],
         "to_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ]
-      },
-      "Medicine Ball": {
-        "from_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
-        ],
-        "to_exercises": [
-          "Backward Medicine Ball Throw",
-          "Medicine ball scoop throw",
-          "Standing Two-Arm Overhead Throw"
-        ]
-      },
-      "E-Z Curl Bar": {
-        "from_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
-        ],
-        "to_exercises": [
-          "Incline face-down bar front raise",
-          "Incline anti-gravity shoulder press",
-          "30 Shoulders EZ-Bar Front Raise"
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
         ]
       },
       "Unknown": {
         "from_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ],
         "to_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
         ]
       },
       "Exercise Ball": {
         "from_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ],
         "to_exercises": [
-          "Bent-over shoulder rotation"
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
         ]
       }
     },
     "Other": {
       "Bands": {
         "from_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ],
         "to_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ]
       },
       "Foam Roll": {
         "from_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ],
         "to_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
+          "Hamstring-SMR"
         ]
       },
       "Barbell": {
         "from_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ],
         "to_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ]
       },
       "Kettlebells": {
         "from_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ],
         "to_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ]
       },
       "Dumbbell": {
         "from_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ],
         "to_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ]
       },
       "Cable": {
         "from_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ],
         "to_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ]
       },
       "Machine": {
         "from_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ],
         "to_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ]
       },
       "Body Only": {
         "from_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ],
         "to_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ]
-      },
-      "Medicine Ball": {
-        "from_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
-        ],
-        "to_exercises": [
-          "Backward Medicine Ball Throw",
-          "Medicine ball scoop throw",
-          "Standing Two-Arm Overhead Throw"
-        ]
-      },
-      "E-Z Curl Bar": {
-        "from_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
-        ],
-        "to_exercises": [
-          "Incline face-down bar front raise",
-          "Incline anti-gravity shoulder press",
-          "30 Shoulders EZ-Bar Front Raise"
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
         ]
       },
       "Unknown": {
         "from_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ],
         "to_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
         ]
       },
       "Exercise Ball": {
         "from_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ],
         "to_exercises": [
-          "Bent-over shoulder rotation"
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
         ]
       }
     },
     "Cable": {
       "Bands": {
         "from_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ],
         "to_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ]
       },
       "Foam Roll": {
         "from_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ],
         "to_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
+          "Hamstring-SMR"
         ]
       },
       "Barbell": {
         "from_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ],
         "to_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ]
       },
       "Kettlebells": {
         "from_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ],
         "to_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ]
       },
       "Dumbbell": {
         "from_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ],
         "to_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ]
       },
       "Other": {
         "from_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ],
         "to_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ]
       },
       "Machine": {
         "from_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ],
         "to_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ]
       },
       "Body Only": {
         "from_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ],
         "to_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ]
-      },
-      "Medicine Ball": {
-        "from_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
-        ],
-        "to_exercises": [
-          "Backward Medicine Ball Throw",
-          "Medicine ball scoop throw",
-          "Standing Two-Arm Overhead Throw"
-        ]
-      },
-      "E-Z Curl Bar": {
-        "from_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
-        ],
-        "to_exercises": [
-          "Incline face-down bar front raise",
-          "Incline anti-gravity shoulder press",
-          "30 Shoulders EZ-Bar Front Raise"
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
         ]
       },
       "Unknown": {
         "from_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ],
         "to_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
         ]
       },
       "Exercise Ball": {
         "from_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ],
         "to_exercises": [
-          "Bent-over shoulder rotation"
-        ]
-      }
-    },
-    "Body Only": {
-      "Bands": {
-        "from_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ],
-        "to_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
-        ]
-      },
-      "Foam Roll": {
-        "from_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ],
-        "to_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ]
-      },
-      "Barbell": {
-        "from_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ],
-        "to_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
-        ]
-      },
-      "Kettlebells": {
-        "from_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ],
-        "to_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
-        ]
-      },
-      "Dumbbell": {
-        "from_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ],
-        "to_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
-        ]
-      },
-      "Other": {
-        "from_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ],
-        "to_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
-        ]
-      },
-      "Cable": {
-        "from_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ],
-        "to_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
-        ]
-      },
-      "Machine": {
-        "from_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ],
-        "to_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
-        ]
-      },
-      "Medicine Ball": {
-        "from_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ],
-        "to_exercises": [
-          "Backward Medicine Ball Throw",
-          "Medicine ball scoop throw",
-          "Standing Two-Arm Overhead Throw"
-        ]
-      },
-      "E-Z Curl Bar": {
-        "from_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ],
-        "to_exercises": [
-          "Incline face-down bar front raise",
-          "Incline anti-gravity shoulder press",
-          "30 Shoulders EZ-Bar Front Raise"
-        ]
-      },
-      "Unknown": {
-        "from_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ],
-        "to_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ]
-      },
-      "Exercise Ball": {
-        "from_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ],
-        "to_exercises": [
-          "Bent-over shoulder rotation"
-        ]
-      }
-    },
-    "Unknown": {
-      "Bands": {
-        "from_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ],
-        "to_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
-        ]
-      },
-      "Foam Roll": {
-        "from_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ],
-        "to_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ]
-      },
-      "Barbell": {
-        "from_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ],
-        "to_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
-        ]
-      },
-      "Kettlebells": {
-        "from_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ],
-        "to_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
-        ]
-      },
-      "Dumbbell": {
-        "from_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ],
-        "to_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
-        ]
-      },
-      "Other": {
-        "from_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ],
-        "to_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
-        ]
-      },
-      "Cable": {
-        "from_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ],
-        "to_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
-        ]
-      },
-      "Machine": {
-        "from_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ],
-        "to_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
-        ]
-      },
-      "Body Only": {
-        "from_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ],
-        "to_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ]
-      },
-      "Medicine Ball": {
-        "from_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ],
-        "to_exercises": [
-          "Backward Medicine Ball Throw",
-          "Medicine ball scoop throw",
-          "Standing Two-Arm Overhead Throw"
-        ]
-      },
-      "E-Z Curl Bar": {
-        "from_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ],
-        "to_exercises": [
-          "Incline face-down bar front raise",
-          "Incline anti-gravity shoulder press",
-          "30 Shoulders EZ-Bar Front Raise"
-        ]
-      },
-      "Exercise Ball": {
-        "from_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ],
-        "to_exercises": [
-          "Bent-over shoulder rotation"
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
         ]
       }
     },
     "Machine": {
       "Bands": {
         "from_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ],
         "to_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
         ]
       },
       "Foam Roll": {
         "from_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ],
         "to_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
+          "Hamstring-SMR"
         ]
       },
       "Barbell": {
         "from_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ],
         "to_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
         ]
       },
       "Kettlebells": {
         "from_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ],
         "to_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
         ]
       },
       "Dumbbell": {
         "from_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ],
         "to_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
         ]
       },
       "Other": {
         "from_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ],
         "to_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
         ]
       },
       "Cable": {
         "from_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ],
         "to_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
+          "Lying cable leg curl",
+          "Standing cable leg curl"
         ]
       },
       "Body Only": {
         "from_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ],
         "to_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ]
-      },
-      "Medicine Ball": {
-        "from_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
-        ],
-        "to_exercises": [
-          "Backward Medicine Ball Throw",
-          "Medicine ball scoop throw",
-          "Standing Two-Arm Overhead Throw"
-        ]
-      },
-      "E-Z Curl Bar": {
-        "from_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
-        ],
-        "to_exercises": [
-          "Incline face-down bar front raise",
-          "Incline anti-gravity shoulder press",
-          "30 Shoulders EZ-Bar Front Raise"
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
         ]
       },
       "Unknown": {
         "from_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ],
         "to_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
         ]
       },
       "Exercise Ball": {
         "from_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
         ],
         "to_exercises": [
-          "Bent-over shoulder rotation"
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ]
+      }
+    },
+    "Body Only": {
+      "Bands": {
+        "from_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ],
+        "to_exercises": [
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
+        ]
+      },
+      "Foam Roll": {
+        "from_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ],
+        "to_exercises": [
+          "Hamstring-SMR"
+        ]
+      },
+      "Barbell": {
+        "from_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ],
+        "to_exercises": [
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
+        ]
+      },
+      "Kettlebells": {
+        "from_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ],
+        "to_exercises": [
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
+        ]
+      },
+      "Dumbbell": {
+        "from_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ],
+        "to_exercises": [
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
+        ]
+      },
+      "Other": {
+        "from_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ],
+        "to_exercises": [
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
+        ]
+      },
+      "Cable": {
+        "from_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ],
+        "to_exercises": [
+          "Lying cable leg curl",
+          "Standing cable leg curl"
+        ]
+      },
+      "Machine": {
+        "from_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ],
+        "to_exercises": [
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
+        ]
+      },
+      "Unknown": {
+        "from_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ],
+        "to_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ]
+      },
+      "Exercise Ball": {
+        "from_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ],
+        "to_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
         ]
       }
     },
@@ -1786,259 +1417,6 @@
           "Backward Medicine Ball Throw",
           "Medicine ball scoop throw",
           "Standing Two-Arm Overhead Throw"
-        ],
-        "to_exercises": [
-          "Bent-over shoulder rotation"
-        ]
-      }
-    },
-    "Exercise Ball": {
-      "Bands": {
-        "from_exercises": [
-          "Bent-over shoulder rotation"
-        ],
-        "to_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
-        ]
-      },
-      "Foam Roll": {
-        "from_exercises": [
-          "Bent-over shoulder rotation"
-        ],
-        "to_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ]
-      },
-      "Barbell": {
-        "from_exercises": [
-          "Bent-over shoulder rotation"
-        ],
-        "to_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
-        ]
-      },
-      "Kettlebells": {
-        "from_exercises": [
-          "Bent-over shoulder rotation"
-        ],
-        "to_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
-        ]
-      },
-      "Dumbbell": {
-        "from_exercises": [
-          "Bent-over shoulder rotation"
-        ],
-        "to_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
-        ]
-      },
-      "Other": {
-        "from_exercises": [
-          "Bent-over shoulder rotation"
-        ],
-        "to_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
-        ]
-      },
-      "Cable": {
-        "from_exercises": [
-          "Bent-over shoulder rotation"
-        ],
-        "to_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
-        ]
-      },
-      "Machine": {
-        "from_exercises": [
-          "Bent-over shoulder rotation"
-        ],
-        "to_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
-        ]
-      },
-      "Body Only": {
-        "from_exercises": [
-          "Bent-over shoulder rotation"
-        ],
-        "to_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ]
-      },
-      "Medicine Ball": {
-        "from_exercises": [
-          "Bent-over shoulder rotation"
-        ],
-        "to_exercises": [
-          "Backward Medicine Ball Throw",
-          "Medicine ball scoop throw",
-          "Standing Two-Arm Overhead Throw"
-        ]
-      },
-      "E-Z Curl Bar": {
-        "from_exercises": [
-          "Bent-over shoulder rotation"
-        ],
-        "to_exercises": [
-          "Incline face-down bar front raise",
-          "Incline anti-gravity shoulder press",
-          "30 Shoulders EZ-Bar Front Raise"
-        ]
-      },
-      "Unknown": {
-        "from_exercises": [
-          "Bent-over shoulder rotation"
-        ],
-        "to_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ]
-      }
-    },
-    "Foam Roll": {
-      "Bands": {
-        "from_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ],
-        "to_exercises": [
-          "Internal Rotation with Band",
-          "Band Pull Apart",
-          "Back Flyes - With Bands"
-        ]
-      },
-      "Barbell": {
-        "from_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ],
-        "to_exercises": [
-          "Clean and press",
-          "Clean and jerk",
-          "Military press"
-        ]
-      },
-      "Kettlebells": {
-        "from_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ],
-        "to_exercises": [
-          "Single-arm kettlebell push-press",
-          "Two-Arm Kettlebell Military Press",
-          "Alternating Kettlebell Press"
-        ]
-      },
-      "Dumbbell": {
-        "from_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ],
-        "to_exercises": [
-          "Dumbbell front raise to lateral raise",
-          "Single-arm palm-in dumbbell shoulder press",
-          "Standing palms-in shoulder press"
-        ]
-      },
-      "Other": {
-        "from_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ],
-        "to_exercises": [
-          "Car driver",
-          "Front Plate Raise",
-          "Battle ropes"
-        ]
-      },
-      "Cable": {
-        "from_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ],
-        "to_exercises": [
-          "Single-arm cable front raise",
-          "Cable Internal Rotation",
-          "Seated face pull"
-        ]
-      },
-      "Machine": {
-        "from_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ],
-        "to_exercises": [
-          "Smith machine shoulder press",
-          "Machine shoulder press",
-          "Reverse Machine Flyes"
-        ]
-      },
-      "Body Only": {
-        "from_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ],
-        "to_exercises": [
-          "Handstand push-up",
-          "Upward Stretch",
-          "Shoulder Circles"
-        ]
-      },
-      "Medicine Ball": {
-        "from_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ],
-        "to_exercises": [
-          "Backward Medicine Ball Throw",
-          "Medicine ball scoop throw",
-          "Standing Two-Arm Overhead Throw"
-        ]
-      },
-      "E-Z Curl Bar": {
-        "from_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ],
-        "to_exercises": [
-          "Incline face-down bar front raise",
-          "Incline anti-gravity shoulder press",
-          "30 Shoulders EZ-Bar Front Raise"
-        ]
-      },
-      "Unknown": {
-        "from_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
-        ],
-        "to_exercises": [
-          "Side Wrist Pull",
-          "Elbow Circles",
-          "Kneeling Arm Drill"
-        ]
-      },
-      "Exercise Ball": {
-        "from_exercises": [
-          "Jordan Shallow Foam Roller Thoracic Extension",
-          "Jordan Shallow Thread the Needle (with Foam Roller)"
         ],
         "to_exercises": [
           "Bent-over shoulder rotation"
@@ -2187,57 +1565,347 @@
           "Bent-over shoulder rotation"
         ]
       }
+    },
+    "Exercise Ball": {
+      "Bands": {
+        "from_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ],
+        "to_exercises": [
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
+        ]
+      },
+      "Foam Roll": {
+        "from_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ],
+        "to_exercises": [
+          "Hamstring-SMR"
+        ]
+      },
+      "Barbell": {
+        "from_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ],
+        "to_exercises": [
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
+        ]
+      },
+      "Kettlebells": {
+        "from_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ],
+        "to_exercises": [
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
+        ]
+      },
+      "Dumbbell": {
+        "from_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ],
+        "to_exercises": [
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
+        ]
+      },
+      "Other": {
+        "from_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ],
+        "to_exercises": [
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
+        ]
+      },
+      "Cable": {
+        "from_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ],
+        "to_exercises": [
+          "Lying cable leg curl",
+          "Standing cable leg curl"
+        ]
+      },
+      "Machine": {
+        "from_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ],
+        "to_exercises": [
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
+        ]
+      },
+      "Body Only": {
+        "from_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ],
+        "to_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ]
+      },
+      "Unknown": {
+        "from_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ],
+        "to_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ]
+      }
+    },
+    "Foam Roll": {
+      "Bands": {
+        "from_exercises": [
+          "Hamstring-SMR"
+        ],
+        "to_exercises": [
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
+        ]
+      },
+      "Barbell": {
+        "from_exercises": [
+          "Hamstring-SMR"
+        ],
+        "to_exercises": [
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
+        ]
+      },
+      "Kettlebells": {
+        "from_exercises": [
+          "Hamstring-SMR"
+        ],
+        "to_exercises": [
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
+        ]
+      },
+      "Dumbbell": {
+        "from_exercises": [
+          "Hamstring-SMR"
+        ],
+        "to_exercises": [
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
+        ]
+      },
+      "Other": {
+        "from_exercises": [
+          "Hamstring-SMR"
+        ],
+        "to_exercises": [
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
+        ]
+      },
+      "Cable": {
+        "from_exercises": [
+          "Hamstring-SMR"
+        ],
+        "to_exercises": [
+          "Lying cable leg curl",
+          "Standing cable leg curl"
+        ]
+      },
+      "Machine": {
+        "from_exercises": [
+          "Hamstring-SMR"
+        ],
+        "to_exercises": [
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
+        ]
+      },
+      "Body Only": {
+        "from_exercises": [
+          "Hamstring-SMR"
+        ],
+        "to_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ]
+      },
+      "Unknown": {
+        "from_exercises": [
+          "Hamstring-SMR"
+        ],
+        "to_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ]
+      },
+      "Exercise Ball": {
+        "from_exercises": [
+          "Hamstring-SMR"
+        ],
+        "to_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ]
+      }
+    },
+    "Unknown": {
+      "Bands": {
+        "from_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ],
+        "to_exercises": [
+          "Band Good Morning (Pull Through)",
+          "Standing Hamstring and Calf Stretch"
+        ]
+      },
+      "Foam Roll": {
+        "from_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ],
+        "to_exercises": [
+          "Hamstring-SMR"
+        ]
+      },
+      "Barbell": {
+        "from_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ],
+        "to_exercises": [
+          "Barbell Deadlift",
+          "Clean Deadlift",
+          "Sumo deadlift"
+        ]
+      },
+      "Kettlebells": {
+        "from_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ],
+        "to_exercises": [
+          "Kettlebell pass-through lunge",
+          "Kettlebell One-Legged Deadlift",
+          "Single-arm kettlebell clean"
+        ]
+      },
+      "Dumbbell": {
+        "from_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ],
+        "to_exercises": [
+          "Romanian Deadlift With Dumbbells",
+          "Stiff-Legged Dumbbell Deadlift",
+          "Vertical Swing"
+        ]
+      },
+      "Other": {
+        "from_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ],
+        "to_exercises": [
+          "Box jump",
+          "Box Jump (Multiple Response)",
+          "Sled push-"
+        ]
+      },
+      "Cable": {
+        "from_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ],
+        "to_exercises": [
+          "Lying cable leg curl",
+          "Standing cable leg curl"
+        ]
+      },
+      "Machine": {
+        "from_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ],
+        "to_exercises": [
+          "Lying Leg Curls",
+          "Glute Ham Raise",
+          "Reverse Hyperextension"
+        ]
+      },
+      "Body Only": {
+        "from_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ],
+        "to_exercises": [
+          "Natural Glute Ham Raise",
+          "Standing leg swing",
+          "Linear Acceleration Wall Drill"
+        ]
+      },
+      "Exercise Ball": {
+        "from_exercises": [
+          "Glute ham raise-",
+          "Lying hamstring stretch with band",
+          "Upper Back-Leg Grab"
+        ],
+        "to_exercises": [
+          "Exercise ball leg curl",
+          "Ball Hamstring Hat Trick"
+        ]
+      }
     }
   },
   "progression_paths": {
-    "Forearms": {
+    "Triceps": {
       "beginner": [
-        "Standing behind-the-back wrist curl",
-        "Seated finger curl",
-        "Bottoms-Up Clean From The Hang Position",
-        "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
-        "Palms-Up Dumbbell Wrist Curl Over A Bench"
+        "Decline Close-Grip Bench To Skull Crusher",
+        "Bench Press with Chains",
+        "Floor Press",
+        "One Arm Floor Press",
+        "Pin Presses"
       ],
       "intermediate": [
-        "Standing alternating band speed row",
-        "Band roundhouse elbow",
-        "Palms-down wrist curl over bench",
-        "Palms-up wrist curl over bench",
-        "Seated palms-up wrist curl"
-      ],
-      "advanced": []
-    },
-    "Abdominals": {
-      "beginner": [
-        "Bench barbell roll-out",
-        "Barbell Side Bend",
-        "Advanced Kettlebell Windmill",
-        "Kettlebell Pass Between The Legs",
-        "Dumbbell spell caster"
-      ],
-      "intermediate": [
-        "Partner plank band row",
-        "Banded crunch isometric hold",
-        "FYR Banded Plank Jack",
-        "Banded crunch",
-        "Crunch"
-      ],
-      "advanced": []
-    },
-    "Quadriceps": {
-      "beginner": [
-        "Squats - With Bands",
-        "Hip Flexion with Band",
-        "Forward Band Walk",
-        "Clean from Blocks",
-        "Hang Clean"
-      ],
-      "intermediate": [
-        "Single-leg depth squat",
-        "Boss Everline Resistance-Band Pull Sprint",
-        "Banded jump squat",
-        "Speed Box Squat",
-        "HM Banded Squat Toe Tap"
+        "Band overhead triceps press",
+        "Band overhead triceps extension",
+        "Band straight-arm pull-down",
+        "Band skullcrusher",
+        "Single-arm band kick-back"
       ],
       "advanced": []
     },
@@ -2255,142 +1923,6 @@
         "Rusin Band Pull-Apart",
         "UNS Banded Push-Up",
         "Taylor Band-Assisted One-Arm Push-Up"
-      ],
-      "advanced": []
-    },
-    "Adductors": {
-      "beginner": [
-        "Band Hip Adductions",
-        "Adductor SMR",
-        "Lying Bent Leg Groin",
-        "Groiners",
-        "Side Leg Raises"
-      ],
-      "intermediate": [
-        "Lateral box jump",
-        "Thigh adductor",
-        "Lateral hop",
-        "Side Lying Groin Stretch",
-        "Carioca quick step"
-      ],
-      "advanced": []
-    },
-    "Lats": {
-      "beginner": [
-        "Assisted Chin-Up",
-        "Barbell pull-over to press",
-        "Rocky Pull-Ups/Pulldowns",
-        "Gironda Sternum Chins",
-        "Floor rope climb"
-      ],
-      "intermediate": [
-        "Band-assisted pull-up",
-        "UN Band Assisted Pull-up Pronated",
-        "UN Band Assisted Pull-up Neutral",
-        "UN Band Assisted Pull-up Supinated",
-        "FYR2 Monster Band Face-Pull Hold"
-      ],
-      "advanced": []
-    },
-    "Biceps": {
-      "beginner": [
-        "Brachialis SMR",
-        "Wide-grip barbell curl",
-        "Close-grip EZ-bar curl",
-        "Barbell Curls Lying Against An Incline",
-        "Seated Close-Grip Concentration Barbell Curl"
-      ],
-      "intermediate": [
-        "Incline dumbbell biceps curl",
-        "Banded biceps curl in squat position",
-        "Banded Hammer Press - Gethin Variation",
-        "Band standing concentration curl",
-        "EZ-bar spider curl"
-      ],
-      "advanced": []
-    },
-    "Hamstrings": {
-      "beginner": [
-        "Band Good Morning (Pull Through)",
-        "Hamstring-SMR",
-        "Clean Deadlift",
-        "Sumo deadlift",
-        "Romanian Deadlift from Deficit"
-      ],
-      "intermediate": [
-        "Standing Hamstring and Calf Stretch",
-        "Barbell Deadlift",
-        "Power clean",
-        "Good Morning",
-        "Barbell stiff-legged deadlift"
-      ],
-      "advanced": []
-    },
-    "Calves": {
-      "beginner": [
-        "Calf Raises - With Bands",
-        "Calf SMR",
-        "Rocking Standing Calf Raise",
-        "Standing barbell calf raise",
-        "Barbell Seated Calf Raise"
-      ],
-      "intermediate": [
-        "Peroneals Stretch",
-        "Posterior Tibialis Stretch",
-        "Smith machine standing calf raise",
-        "Standing Dumbbell Calf Raise",
-        "Single-leg standing dumbbell calf raise"
-      ],
-      "advanced": []
-    },
-    "Glutes": {
-      "beginner": [
-        "Hip Extension with Bands",
-        "Hip Lift with Band",
-        "Kneeling Squat",
-        "Kneeling Jump Squat",
-        "Suspended Hip Thrust"
-      ],
-      "intermediate": [
-        "HM Monster Walk",
-        "UNS Banded Glute Bridge",
-        "FYR2 Banded Glute Bridge",
-        "Piriformis SMR",
-        "Barbell glute bridge"
-      ],
-      "advanced": []
-    },
-    "Traps": {
-      "beginner": [
-        "Upright Row - With Bands",
-        "Clean Shrug",
-        "Snatch Shrug",
-        "Calf-Machine Shoulder Shrug",
-        "Scapular Pull-Up"
-      ],
-      "intermediate": [
-        "Band seated row",
-        "Barbell shrug",
-        "Barbell behind-the-back shrug",
-        "Single-arm inverted row",
-        "Kettlebell sumo deadlift high pull"
-      ],
-      "advanced": []
-    },
-    "Middle Back": {
-      "beginner": [
-        "Partner Facing Feet-Elevated Side Plank With Band Row",
-        "Yates Row Reverse Grip",
-        "Straight Bar Bench Mid Rows",
-        "Yates Row",
-        "Plate Row"
-      ],
-      "intermediate": [
-        "Partner side plank band row",
-        "Band-assisted chin-up",
-        "30 Back Band-Assisted Pull-Up",
-        "30 Back Reverse-Grip Band-Assisted Pull-Up",
-        "Band bent-over row"
       ],
       "advanced": []
     },
@@ -2425,20 +1957,20 @@
       ],
       "advanced": []
     },
-    "Triceps": {
+    "Calves": {
       "beginner": [
-        "Decline Close-Grip Bench To Skull Crusher",
-        "Bench Press with Chains",
-        "Floor Press",
-        "One Arm Floor Press",
-        "Pin Presses"
+        "Calf Raises - With Bands",
+        "Calf SMR",
+        "Rocking Standing Calf Raise",
+        "Standing barbell calf raise",
+        "Barbell Seated Calf Raise"
       ],
       "intermediate": [
-        "Band overhead triceps press",
-        "Band overhead triceps extension",
-        "Band straight-arm pull-down",
-        "Band skullcrusher",
-        "Single-arm band kick-back"
+        "Peroneals Stretch",
+        "Posterior Tibialis Stretch",
+        "Smith machine standing calf raise",
+        "Standing Dumbbell Calf Raise",
+        "Single-leg standing dumbbell calf raise"
       ],
       "advanced": []
     },
@@ -2457,6 +1989,159 @@
       ],
       "advanced": []
     },
+    "Traps": {
+      "beginner": [
+        "Upright Row - With Bands",
+        "Clean Shrug",
+        "Snatch Shrug",
+        "Calf-Machine Shoulder Shrug",
+        "Scapular Pull-Up"
+      ],
+      "intermediate": [
+        "Band seated row",
+        "Barbell shrug",
+        "Barbell behind-the-back shrug",
+        "Single-arm inverted row",
+        "Kettlebell sumo deadlift high pull"
+      ],
+      "advanced": []
+    },
+    "Biceps": {
+      "beginner": [
+        "Brachialis SMR",
+        "Wide-grip barbell curl",
+        "Close-grip EZ-bar curl",
+        "Barbell Curls Lying Against An Incline",
+        "Seated Close-Grip Concentration Barbell Curl"
+      ],
+      "intermediate": [
+        "Incline dumbbell biceps curl",
+        "Banded biceps curl in squat position",
+        "Banded Hammer Press - Gethin Variation",
+        "Band standing concentration curl",
+        "EZ-bar spider curl"
+      ],
+      "advanced": []
+    },
+    "Adductors": {
+      "beginner": [
+        "Band Hip Adductions",
+        "Adductor SMR",
+        "Lying Bent Leg Groin",
+        "Groiners",
+        "Side Leg Raises"
+      ],
+      "intermediate": [
+        "Lateral box jump",
+        "Thigh adductor",
+        "Lateral hop",
+        "Side Lying Groin Stretch",
+        "Carioca quick step"
+      ],
+      "advanced": []
+    },
+    "Glutes": {
+      "beginner": [
+        "Hip Extension with Bands",
+        "Hip Lift with Band",
+        "Kneeling Squat",
+        "Kneeling Jump Squat",
+        "Suspended Hip Thrust"
+      ],
+      "intermediate": [
+        "HM Monster Walk",
+        "UNS Banded Glute Bridge",
+        "FYR2 Banded Glute Bridge",
+        "Piriformis SMR",
+        "Barbell glute bridge"
+      ],
+      "advanced": []
+    },
+    "Middle Back": {
+      "beginner": [
+        "Partner Facing Feet-Elevated Side Plank With Band Row",
+        "Yates Row Reverse Grip",
+        "Straight Bar Bench Mid Rows",
+        "Yates Row",
+        "Plate Row"
+      ],
+      "intermediate": [
+        "Partner side plank band row",
+        "Band-assisted chin-up",
+        "30 Back Band-Assisted Pull-Up",
+        "30 Back Reverse-Grip Band-Assisted Pull-Up",
+        "Band bent-over row"
+      ],
+      "advanced": []
+    },
+    "Lats": {
+      "beginner": [
+        "Assisted Chin-Up",
+        "Barbell pull-over to press",
+        "Rocky Pull-Ups/Pulldowns",
+        "Gironda Sternum Chins",
+        "Floor rope climb"
+      ],
+      "intermediate": [
+        "Band-assisted pull-up",
+        "UN Band Assisted Pull-up Pronated",
+        "UN Band Assisted Pull-up Neutral",
+        "UN Band Assisted Pull-up Supinated",
+        "FYR2 Monster Band Face-Pull Hold"
+      ],
+      "advanced": []
+    },
+    "Abdominals": {
+      "beginner": [
+        "Bench barbell roll-out",
+        "Barbell Side Bend",
+        "Advanced Kettlebell Windmill",
+        "Kettlebell Pass Between The Legs",
+        "Dumbbell spell caster"
+      ],
+      "intermediate": [
+        "Partner plank band row",
+        "Banded crunch isometric hold",
+        "FYR Banded Plank Jack",
+        "Banded crunch",
+        "Crunch"
+      ],
+      "advanced": []
+    },
+    "Forearms": {
+      "beginner": [
+        "Standing behind-the-back wrist curl",
+        "Seated finger curl",
+        "Bottoms-Up Clean From The Hang Position",
+        "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+        "Palms-Up Dumbbell Wrist Curl Over A Bench"
+      ],
+      "intermediate": [
+        "Standing alternating band speed row",
+        "Band roundhouse elbow",
+        "Palms-down wrist curl over bench",
+        "Palms-up wrist curl over bench",
+        "Seated palms-up wrist curl"
+      ],
+      "advanced": []
+    },
+    "Quadriceps": {
+      "beginner": [
+        "Squats - With Bands",
+        "Hip Flexion with Band",
+        "Forward Band Walk",
+        "Clean from Blocks",
+        "Hang Clean"
+      ],
+      "intermediate": [
+        "Single-leg depth squat",
+        "Boss Everline Resistance-Band Pull Sprint",
+        "Banded jump squat",
+        "Speed Box Squat",
+        "HM Banded Squat Toe Tap"
+      ],
+      "advanced": []
+    },
     "Shoulders": {
       "beginner": [
         "Internal Rotation with Band",
@@ -2471,6 +2156,23 @@
         "HM Lateral Raise",
         "Rusin Banded Over-And-Back",
         "Rusin Banded Face Pull"
+      ],
+      "advanced": []
+    },
+    "Hamstrings": {
+      "beginner": [
+        "Band Good Morning (Pull Through)",
+        "Hamstring-SMR",
+        "Clean Deadlift",
+        "Sumo deadlift",
+        "Romanian Deadlift from Deficit"
+      ],
+      "intermediate": [
+        "Standing Hamstring and Calf Stretch",
+        "Barbell Deadlift",
+        "Power clean",
+        "Good Morning",
+        "Barbell stiff-legged deadlift"
       ],
       "advanced": []
     }

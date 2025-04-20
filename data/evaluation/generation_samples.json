@@ -1,0 +1,42 @@
+[
+  {
+    "reference": "Squats are a compound exercise that primarily target the quadriceps, hamstrings, and glutes. They also engage the core and lower back muscles for stability.",
+    "hypothesis": "Squats work the leg muscles including quads, hamstrings and glutes. They also help engage core muscles."
+  },
+  {
+    "reference": "Push-ups are a bodyweight exercise that target the chest, shoulders, and triceps. They also engage the core for stability.",
+    "hypothesis": "Push-ups work the upper body, mainly the chest and triceps. Core muscles are also engaged during push-ups."
+  },
+  {
+    "reference": "Deadlifts are a compound exercise that primarily target the lower back, glutes, and hamstrings. They also engage the upper back, traps, and forearms.",
+    "hypothesis": "Deadlifts target the posterior chain including lower back and hamstrings. They are good for overall strength development."
+  },
+  {
+    "reference": "Planks are an isometric core exercise that strengthen the abdominals, lower back, and shoulders. They also engage the glutes and quads.",
+    "hypothesis": "Planks strengthen the core muscles and improve stability. They help build endurance in the abdominal muscles."
+  },
+  {
+    "reference": "Lunges are a unilateral exercise that target the quadriceps, hamstrings, and glutes. They also improve balance and coordination.",
+    "hypothesis": "Lunges work the leg muscles and help with balance. They are good for developing lower body strength."
+  },
+  {
+    "reference": "The partner plank band row is an abdominal exercise where two partners perform single-arm planks while pulling on the opposite ends of an exercise band. This technique can be done for time or reps in any ab-focused workout.",
+    "hypothesis": "The partner plank band row is an abdominal exercise where two partners perform single-arm planks while pulling on the band. This technique can be done for time or reps in any ab-focused workout."
+  },
+  {
+    "reference": "The banded crunch isometric hold is an exercise targeting the abdominal muscles, particularly the rectus abdominis or \"six-pack\" muscles. The band adds resistance and continuous tension to this popular exercise.",
+    "hypothesis": "The banded crunch isometric hold is an exercise targeting the abdominal muscles, particularly the rectus band adds resistance and continuous tension to this popular exercise."
+  },
+  {
+    "reference": "The banded plank jack is a variation on the plank that involves moving the legs in and out for repetitions. Having a band around the thighs forces the lower body to work harder, particularly the hips and glutes. The plank jack is commonly performed as part of a bodyweight circuit, or as part of a dynamic warm-up.",
+    "hypothesis": "The banded plank jack is a variation on the plank that involves moving the legs in and out for repetitions. Having a band around the thighs forces the particularly the hips and glutes. The plank jack is commonly performed as part of a bodyweight circuit, or as part of a dynamic warm-up."
+  },
+  {
+    "reference": "The banded crunch is an exercise targeting the abdominal muscles, particularly the rectus abdominis or \"six-pack\" muscles. The band adds resistance and continuous tension to this popular exercise.",
+    "hypothesis": "The banded crunch is an exercise targeting the abdominal muscles, particularly the rectus abdominis adds resistance and continuous tension to this popular exercise."
+  },
+  {
+    "reference": "The crunch is a popular core exercise targeting the rectus abdominis, or \"six-pack\" muscles, as well as the obliques. It has been the centerpiece of many ab-focused workouts, due to both its simplicity and the intense burn and mind-muscle connection it produces. It can be performed for time or reps as part of the ab-focused portion of any workout.",
+    "hypothesis": "The crunch is a popular core exercise targeting the rectus abdominis, or \"six-pack\" muscles, as well as the obliques. It has been the centerpiece of many ab-focused workouts, due the intense burn and mind-muscle connection it produces. It can be performed for time or reps as part of the ab-focused portion of any workout."
+  }
+]

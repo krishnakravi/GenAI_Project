@@ -45,16 +45,17 @@ prompt engineering techniques. The system analyzes exercise data, matches exerci
 to user profiles, and creates custom workout plans based on fitness goals, 
 equipment availability, and experience level.
 
-The project is organized in five phases:
+The project is organized in six phases:
 1. Basic NLP Analysis of Exercise Data
 2. Advanced Reasoning with Prompt Engineering Techniques
 3. Retrieval-Augmented Generation for Exercise Questions
 4. Multimodal Input Handling for User Queries
 5. Model Fine-Tuning Using LoRA
+6. Evaluation Frameworks for System Performance
     """)
 
 def run_all_phases():
-    """Run all five phases of the project"""
+    """Run all phases of the project"""
     start_time = time.time()
     
     # Create directories
@@ -117,6 +118,13 @@ def run_all_phases():
     else:
         fine_tune_model()
     
+    # Phase 6: Evaluation Frameworks
+    print("\n" + "="*50)
+    print("PHASE 6: EVALUATION FRAMEWORKS")
+    print("="*50)
+    from phase6 import run_evaluation
+    evaluation_report = run_evaluation()
+    
     # Print completion message
     elapsed_time = time.time() - start_time
     print("\n" + "="*50)
@@ -128,10 +136,12 @@ def run_all_phases():
     print("- Phase 3: data/knowledge_base, data/embeddings, data/faiss, results")
     print("- Phase 4: Demonstrated multimodal query handling")
     print("- Phase 5: Fine-tuned model saved to ./fine_tuned_model")
+    print("- Phase 6: Evaluation reports saved to reports/evaluation")
     print("\nReports:")
     print("- Phase 1: reports/phase1_report.md")
     print("- Phase 2: reports/phase2_report.md")
     print("- Phase 3: results/rag_demo_results.json")
+    print("- Phase 6: reports/evaluation/evaluation_report.md")
 
 def main():
     """Main function"""

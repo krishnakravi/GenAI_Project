@@ -11,6 +11,7 @@ This project implements a sophisticated exercise recommendation system using var
 3. **Phase 3**: Exercise Knowledge Assistant (RAG)
 4. **Phase 4**: Multimodal Agents
 5. **Phase 5**: Model Fine-Tuning with LoRA
+6. **Phase 6**: Evaluation Frameworks
 
 ## Features
 
@@ -54,6 +55,13 @@ This project implements a sophisticated exercise recommendation system using var
 - Low-rank adaptation for efficient training
 - Custom configuration for exercise-specific tasks
 - Saves fine-tuned model for improved performance
+
+### Phase 6: Evaluation Frameworks
+- Comprehensive evaluation of system performance using standard metrics
+- Assesses classification accuracy with precision, recall, and F1-Score
+- Evaluates text generation quality using BLEU and ROUGE metrics
+- Simulates user satisfaction and recommendation quality analysis
+- Generates detailed reports with visualizations and recommendations for improvement
 
 ## Installation
 
@@ -110,6 +118,9 @@ python phase4.py
 
 # Phase 5: Model Fine-Tuning
 python phase5.py
+
+# Phase 6: Evaluation
+python phase6.py
 ```
 
 ### GUI Interface
@@ -133,13 +144,16 @@ GenAI_Project/
 ├── phase3.py              # RAG system implementation
 ├── phase4.py              # Multimodal agents
 ├── phase5.py              # LoRA fine-tuning
+├── phase6.py              # Evaluation frameworks
 ├── data/                  # Data directory
 │   ├── processed/         # Processed data
 │   ├── embeddings/        # Word embeddings
+│   ├── evaluation/        # Evaluation data
 │   ├── cot/              # Chain of Thought results
 │   ├── tot/              # Tree of Thought results
 │   └── got/              # Graph of Thought results
 ├── reports/              # Generated reports
+│   └── evaluation/       # Evaluation reports and visualizations
 └── results/              # Output results
 ```
 
